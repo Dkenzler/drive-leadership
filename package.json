@@ -1,0 +1,9 @@
+{
+  "name": "drive-leadership",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node --check src/app.js && node --check src/cover-material.js && node --check src/nav-glass.js"
+  }
+}
