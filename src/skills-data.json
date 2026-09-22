@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "okr",
+    "title": "OKRs",
+    "area": "Drive",
+    "desc": "Aus guten Absichten werden klare Ziele.",
+    "outcome": "Ein Objective und messbare Key Results als ersten Entwurf entwickeln.",
+    "context": "Zielzeitraum, Teamauftrag und die wichtigste gewünschte Veränderung",
+    "free": true,
+    "md": "---\nname: okr\ndescription: Ein Objective und messbare Key Results als ersten Entwurf entwickeln.\n---\n\n# OKRs\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEin Objective und messbare Key Results als ersten Entwurf entwickeln.\n\n## Einstieg\nFrage zuerst nach: Zielzeitraum, Teamauftrag und die wichtigste gewünschte Veränderung. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nFormuliere ein qualitatives Objective. Entwickle zwei bis vier ergebnisorientierte Key Results mit Ausgangswert, Zielwert und Messquelle. Markiere unbekannte Werte als offen. Prüfe, ob die Key Results Wirkung statt Aktivitäten messen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "playing-to-win",
+    "title": "Playing to Win",
+    "area": "Drive",
+    "desc": "Strategische Entscheidungen auf den Punkt bringen.",
+    "outcome": "Strategische Optionen mit ihren Konsequenzen sichtbar machen.",
+    "context": "Kunden, Markt, Angebot und aktuelle strategische Unsicherheit",
+    "free": true,
+    "md": "---\nname: playing-to-win\ndescription: Strategische Optionen mit ihren Konsequenzen sichtbar machen.\n---\n\n# Playing to Win\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nStrategische Optionen mit ihren Konsequenzen sichtbar machen.\n\n## Einstieg\nFrage zuerst nach: Kunden, Markt, Angebot und aktuelle strategische Unsicherheit. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nErarbeite nacheinander Gewinnanspruch, Spielfeld, Wettbewerbsvorteil, notwendige Fähigkeiten und Managementsysteme. Zeige Widersprüche zwischen den Entscheidungen. Trenne Hypothesen von belegten Annahmen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "ogsm",
+    "title": "OGSM",
+    "area": "Drive",
+    "desc": "Vom Zielbild zu konkreten Maßnahmen.",
+    "outcome": "Ziele, Strategie und Maßnahmen miteinander verbinden.",
+    "context": "Zielbild, Zeithorizont und vorhandene Kennzahlen",
+    "free": false
+  },
+  {
+    "slug": "team-charter",
+    "title": "Team Charter",
+    "area": "Lead",
+    "desc": "Zusammenarbeit bewusst vereinbaren.",
+    "outcome": "Eine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.",
+    "context": "Teamauftrag, Beteiligte und aktuelle Reibungspunkte",
+    "free": true,
+    "md": "---\nname: team-charter\ndescription: Eine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.\n---\n\n# Team Charter\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.\n\n## Einstieg\nFrage zuerst nach: Teamauftrag, Beteiligte und aktuelle Reibungspunkte. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nErarbeite Zweck, Rollen, Entscheidungen und Kommunikationsregeln. Formuliere offene Fragen für einen Teamworkshop. Stelle Vereinbarungen nicht als bereits beschlossen dar.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "one-on-one",
+    "title": "1:1-Gespräche",
+    "area": "Lead",
+    "desc": "Raum für die richtigen Gespräche schaffen.",
+    "outcome": "Ein auf die Person abgestimmtes Gespräch vorbereiten.",
+    "context": "Anlass, Rolle und Themenwünsche ohne sensible Personendaten",
+    "free": true,
+    "md": "---\nname: one-on-one\ndescription: Ein auf die Person abgestimmtes Gespräch vorbereiten.\n---\n\n# 1:1-Gespräche\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEin auf die Person abgestimmtes Gespräch vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Anlass, Rolle und Themenwünsche ohne sensible Personendaten. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nEntwickle offene Fragen zu Wohlbefinden, Hindernissen, Zusammenarbeit und Entwicklung. Gib der anderen Person Raum für ihre Agenda. Schließe mit gemeinsam zu vereinbarenden nächsten Schritten.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "career-levels",
+    "title": "Career Level Framework",
+    "area": "Lead",
+    "desc": "Entwicklung greifbar machen.",
+    "outcome": "Beobachtbare Erwartungen je Entwicklungsstufe entwerfen.",
+    "context": "Rollenfamilie, Verantwortungsumfang und bestehende Entwicklungsstufen",
+    "free": false
+  },
+  {
+    "slug": "priorisierung",
+    "title": "Prioritäten klären",
+    "area": "Ship",
+    "desc": "Das Wichtige vor dem Dringenden sehen.",
+    "outcome": "Eine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.",
+    "context": "Vorhaben, Zielbeitrag, Aufwand und Abhängigkeiten",
+    "free": true,
+    "md": "---\nname: priorisierung\ndescription: Eine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.\n---\n\n# Prioritäten klären\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.\n\n## Einstieg\nFrage zuerst nach: Vorhaben, Zielbeitrag, Aufwand und Abhängigkeiten. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nVergleiche Vorhaben nach transparenten Kriterien. Kennzeichne unsichere Schätzungen. Prüfe Abhängigkeiten und Kapazität, bevor du eine Reihenfolge vorschlägst.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "retrospektive",
+    "title": "Retrospektive",
+    "area": "Ship",
+    "desc": "Aus Erfahrungen bessere Zusammenarbeit machen.",
+    "outcome": "Eine fokussierte Retrospektive vorbereiten.",
+    "context": "Zeitraum, Teamgröße und ein konkretes Lernziel",
+    "free": true,
+    "md": "---\nname: retrospektive\ndescription: Eine fokussierte Retrospektive vorbereiten.\n---\n\n# Retrospektive\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine fokussierte Retrospektive vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Zeitraum, Teamgröße und ein konkretes Lernziel. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nPlane Check-in, Beobachtungen, Ursachenarbeit und Maßnahmen. Trenne Beobachtung und Interpretation. Begrenze Maßnahmen auf wenige überprüfbare Experimente mit Verantwortlichen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "shape-up",
+    "title": "Shape Up",
+    "area": "Ship",
+    "desc": "Vorhaben auf eine sinnvolle Größe bringen.",
+    "outcome": "Ein Problem zu einem diskutierbaren Pitch formen.",
+    "context": "Problem, Zeitbudget und bekannte Einschränkungen",
+    "free": false
+  },
+  {
+    "slug": "wochenreflexion",
+    "title": "Wochenreflexion",
+    "area": "Yourself",
+    "desc": "Kurz innehalten. Bewusster weitergehen.",
+    "outcome": "Erfahrungen in einen konkreten nächsten Schritt übersetzen.",
+    "context": "Wichtige Ereignisse, Energiequellen und offene Entscheidungen",
+    "free": true,
+    "md": "---\nname: wochenreflexion\ndescription: Erfahrungen in einen konkreten nächsten Schritt übersetzen.\n---\n\n# Wochenreflexion\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nErfahrungen in einen konkreten nächsten Schritt übersetzen.\n\n## Einstieg\nFrage zuerst nach: Wichtige Ereignisse, Energiequellen und offene Entscheidungen. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nFrage nach Wirkung, Energie und Lernen. Suche Muster, ohne Motive zu unterstellen. Formuliere ein kleines Experiment für die nächste Woche.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "delegation",
+    "title": "Delegation reflektieren",
+    "area": "Yourself",
+    "desc": "Verantwortung wirksam abgeben.",
+    "outcome": "Eine passende Delegationsvereinbarung vorbereiten.",
+    "context": "Aufgabe, Entscheidungsrahmen und Unterstützungsbedarf",
+    "free": true,
+    "md": "---\nname: delegation\ndescription: Eine passende Delegationsvereinbarung vorbereiten.\n---\n\n# Delegation reflektieren\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine passende Delegationsvereinbarung vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Aufgabe, Entscheidungsrahmen und Unterstützungsbedarf. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nKläre erwartetes Ergebnis, Entscheidungsspielraum, Ressourcen und Rückkopplung. Frage nach Zustimmung und Bereitschaft. Delegiere keine Verantwortung ohne entsprechende Befugnisse.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
+  },
+  {
+    "slug": "energie",
+    "title": "Energie & Fokus",
+    "area": "Yourself",
+    "desc": "Deine Aufmerksamkeit bewusst einsetzen.",
+    "outcome": "Den eigenen Arbeitsrhythmus reflektieren.",
+    "context": "Typische Arbeitswoche, Verpflichtungen und persönliche Beobachtungen",
+    "free": false
+  }
+]

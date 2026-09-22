@@ -1,0 +1,73 @@
+
+/* Fade both ends of the glow instead of cutting off its radial gradients. */
+.split-hero::before{-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 20%,#000 78%,transparent 100%);mask-image:linear-gradient(to bottom,transparent 0%,#000 20%,#000 78%,transparent 100%)}
+.header{position:sticky;top:0;z-index:50;max-width:none;background:rgba(247,243,236,.94);-webkit-backdrop-filter:blur(16px);backdrop-filter:blur(16px)}
+html{scroll-padding-top:120px}
+@media(max-width:760px){html{scroll-padding-top:104px}.split-hero::before{-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 32%,#000 83%,transparent 100%);mask-image:linear-gradient(to bottom,transparent 0%,#000 32%,#000 83%,transparent 100%)}}
+
+
+.header .header-logo{display:block;width:200px;flex:none;line-height:0;transition:opacity .18s}
+.header .header-logo img{width:100%;height:auto}
+.header .header-logo:hover{opacity:.8}
+@media(max-width:1050px){.header .header-logo{width:175px}}
+@media(max-width:760px){.header .header-logo{width:180px}}
+
+
+.nav-actions{display:flex;align-items:center;gap:20px;flex:none}
+.nav-sample{border:0;background:transparent;padding:10px 0;color:#4b4455;font-size:13px;font-weight:600;opacity:1;cursor:default}
+@media(max-width:1050px){.nav-actions{gap:12px}.header{column-gap:16px}.header nav{gap:12px}}
+@media(max-width:760px){.header .nav-actions{width:100%;justify-content:flex-end;gap:20px;padding-top:2px}.nav-actions .button.small{display:inline-flex}.header nav{order:3}.nav-sample{font-size:13px}}
+
+
+.header{transition:padding .25s ease,background .25s ease,box-shadow .25s ease; background:rgba(247,243,236,.96);box-shadow:0 1px 0 transparent}
+.header .header-logo{transition:width .25s ease,opacity .18s ease}
+.header.is-scrolled{padding-top:12px;padding-bottom:12px;background:rgba(255,252,247,.73);-webkit-backdrop-filter:blur(22px) saturate(125%);backdrop-filter:blur(22px) saturate(125%);box-shadow:0 1px 0 rgba(106,96,83,.12),0 4px 18px rgba(50,40,30,.035)}
+.header.is-scrolled .header-logo{width:180px}
+@media(max-width:1050px){.header.is-scrolled .header-logo{width:160px}}
+@media(max-width:760px){.header.is-scrolled{padding-top:8px;padding-bottom:8px}.header.is-scrolled .header-logo{width:165px}}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.header.is-scrolled{background:rgba(255,252,247,.97)}}
+@media(prefers-reduced-motion:reduce){.header,.header .header-logo{transition:none}}
+
+
+.button{gap:9px}.button svg{flex:none}
+.header .nav-sample{display:inline-flex;border:1px solid #d6d1c9;background:#fffcf7;color:#131b2e;border-radius:4px;opacity:1;box-shadow:0 1px 3px #131b2e08;font-size:11px;font-weight:700;letter-spacing:.7px;cursor:default;transform:none}
+.header .nav-sample svg,.split-copy .button.secondary svg{color:#6b01cd}
+.header .nav-actions{gap:12px}
+.header .header-logo{width:180px}
+.header.is-scrolled .header-logo{width:165px}
+@media(min-width:761px) and (max-width:1150px){.header{padding-left:24px;padding-right:24px;gap:12px}.header .header-logo,.header.is-scrolled .header-logo{width:150px}.header nav{gap:10px;font-size:12px}.header .nav-actions{gap:8px}.header .nav-actions .button{font-size:10px;letter-spacing:.4px;padding:10px;gap:6px}}
+@media(min-width:761px) and (max-width:900px){.header{flex-wrap:wrap}.header nav{order:3;justify-content:center;width:100%}.header .nav-actions{margin-left:auto}}
+
+
+.header{padding-top:16px;padding-bottom:16px}
+.header .header-logo{width:170px}
+.header nav{font-size:13px;gap:24px;transition:gap .25s ease,font-size .25s ease}
+.header .nav-actions .button{min-height:40px;padding:10px 14px;font-size:10px;gap:8px;transition:padding .25s ease,min-height .25s ease,font-size .25s ease,background .18s ease}
+.header .nav-actions svg{width:17px;height:17px;transition:width .25s ease,height .25s ease}
+.header.is-scrolled{padding-top:9px;padding-bottom:9px}
+.header.is-scrolled .header-logo{width:150px}
+.header.is-scrolled nav{font-size:12px;gap:20px}
+.header.is-scrolled .nav-actions .button{min-height:34px;padding:8px 12px;font-size:9px;gap:7px}
+.header.is-scrolled .nav-actions svg{width:15px;height:15px}
+@media(min-width:761px) and (max-width:1150px){.header nav{gap:12px;font-size:12px}.header .header-logo{width:150px}.header.is-scrolled .header-logo{width:140px}.header.is-scrolled nav{gap:10px}}
+@media(max-width:760px){.header{padding-top:10px;padding-bottom:10px;row-gap:4px}.header .header-logo{width:165px}.header.is-scrolled{padding-top:6px;padding-bottom:6px}.header.is-scrolled .header-logo{width:145px}.header .nav-actions .button,.header.is-scrolled .nav-actions .button{min-height:44px}.header nav,.header.is-scrolled nav{gap:0;font-size:14px}.header .nav-actions{padding-top:0}}
+@media(prefers-reduced-motion:reduce){.header nav,.header .nav-actions .button,.header .nav-actions svg{transition:none}}
+
+
+.header{background:#f8f4ed}
+.header.is-scrolled{background:rgba(248,244,237,.82)}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.header.is-scrolled{background:rgba(248,244,237,.97)}}
+
+.header{border-bottom:1px solid #dedbd7}.header.is-scrolled{box-shadow:0 4px 18px rgba(50,40,30,.035)}
+.header nav a[aria-current="page"]{color:#6b01cd}.header nav a[aria-current="page"]:after{transform:scaleX(1)}
+/* Shared sand surface for the navigation and both page introductions. */
+.split-hero{background:#f8f4ed;box-shadow:0 0 0 100vmax #f8f4ed}
+.library-hero{background:#f8f4ed;box-shadow:0 0 0 100vmax #f8f4ed;clip-path:inset(0 -100vmax)}
+/* Fine divider across the full hero width. */
+.split-hero,.library-hero{position:relative}
+.split-hero::after,.library-hero::after{content:'';position:absolute;bottom:0;left:50%;width:100vw;height:1px;background:#dedbd7;transform:translateX(-50%);pointer-events:none;z-index:3}
+/* Fill the opening viewport while allowing content to grow on small screens. */
+:root{--navigation-height:73px}
+.split-hero,.library-hero{min-height:calc(100svh - var(--navigation-height))}
+.library-hero{display:flex;align-items:center}
+@media(max-width:760px){.library-hero{align-items:flex-start}}

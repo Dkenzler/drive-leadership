@@ -1,6 +1,8 @@
 // Flat cover with stationary microstructure and a moving studio light.
 (async()=>{
- const book=document.querySelector('.book'),img=book.querySelector('img');
+ const book=document.querySelector('.book');
+ if(!book)return;
+ const img=book.querySelector('img');
  const reduce=matchMedia('(prefers-reduced-motion: reduce)');
  let canvas,gl,raf=null,visible=false,last=null,time=0;
  try{
@@ -61,8 +63,8 @@
   const buffer=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buffer);gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,-1,1,1,-1,1,1]),gl.STATIC_DRAW);
   const pos=gl.getAttribLocation(program,'position');gl.enableVertexAttribArray(pos);gl.vertexAttribPointer(pos,2,gl.FLOAT,false,0,0);
   const source=document.createElement('canvas');source.width=1000;source.height=Math.round(1000*510/362);
-  const ctx=source.getContext('2d'),box=book.getBoundingClientRect(),ib=img.getBoundingClientRect(),scale=source.width/box.width;
-  ctx.drawImage(img,(ib.left-box.left)*scale,(ib.top-box.top)*scale,ib.width*scale,ib.height*scale);
+  const ctx=source.getContext('2d'),style=getComputedStyle(img),scale=source.width/book.clientWidth;
+  ctx.drawImage(img,parseFloat(style.left)*scale,parseFloat(style.top)*scale,parseFloat(style.width)*scale,parseFloat(style.height)*scale);
   const texture=gl.createTexture();gl.bindTexture(gl.TEXTURE_2D,texture);gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL,true);gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,source);
   gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_S,gl.CLAMP_TO_EDGE);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_T,gl.CLAMP_TO_EDGE);
   gl.uniform2f(gl.getUniformLocation(program,'texel'),1/source.width,1/source.height);
