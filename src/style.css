@@ -53,7 +53,7 @@
 
 /* Brushed metallic orange with a soft spotlight and a sharper foil reflection. */
 .book{isolation:isolate}
-.book::before,.book::after{content:'';position:absolute;inset:0;pointer-events:none;opacity:0;mask-image:var(--orange-mask,linear-gradient(transparent,transparent));mask-size:100% 100%;mask-repeat:no-repeat;background-repeat:no-repeat;background-size:250% 220%;animation:cover-metal-light 10s ease-in-out infinite}
+.book::before,.book::after{content:'';position:absolute;inset:0;pointer-events:none;opacity:0;mask-image:var(--orange-mask,linear-gradient(transparent,transparent));mask-size:100% 100%;mask-repeat:no-repeat;background-repeat:no-repeat;background-size:250% 220%;animation:cover-metal-light 4s ease-in-out infinite}
 .book::before{z-index:1;mix-blend-mode:multiply;background-image:radial-gradient(ellipse at center,transparent 12%,rgba(104,42,10,.16) 29%,rgba(104,42,10,.07) 43%,transparent 57%)}
 .book::after{z-index:2;mix-blend-mode:screen;background-image:linear-gradient(112deg,transparent 37%,#fff3ce08 43%,#fff7db18 45%,#fffbea38 49%,#fff7da24 53%,#ffd28b0c 57%,transparent 59%),radial-gradient(ellipse at center,rgba(255,231,189,.26) 0%,rgba(255,212,143,.16) 13%,rgba(255,191,109,.06) 26%,transparent 39%)}
 .book-metal-grain{position:absolute;inset:0;z-index:1;pointer-events:none;mask-image:var(--orange-mask,linear-gradient(transparent,transparent));mask-size:100% 100%;mix-blend-mode:soft-light;opacity:.42;background-image:repeating-linear-gradient(3deg,#fff9e838 0px,#fff9e838 .35px,#57200030 .7px,transparent 1.3px,transparent 2px),repeating-linear-gradient(1deg,transparent 0 3px,#ffffff28 3.2px,transparent 3.7px 6px),linear-gradient(110deg,#56220255 0%,#ffc47a22 25%,#fff3d15c 42%,#55230955 60%,#ffdca540 78%,#79300544 100%)}

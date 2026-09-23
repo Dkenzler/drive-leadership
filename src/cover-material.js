@@ -4,6 +4,7 @@
  if(!book)return;
  const img=book.querySelector('img');
  const reduce=matchMedia('(prefers-reduced-motion: reduce)');
+ const shimmerCycleSeconds=4;
  let canvas,gl,raf=null,visible=false,last=null,time=0;
  try{
   await img.decode();
@@ -69,7 +70,7 @@
   gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_S,gl.CLAMP_TO_EDGE);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_T,gl.CLAMP_TO_EDGE);
   gl.uniform2f(gl.getUniformLocation(program,'texel'),1/source.width,1/source.height);
   gl.uniform1i(gl.getUniformLocation(program,'cover'),0);const phase=gl.getUniformLocation(program,'phase');
-  function draw(){const dpr=Math.min(devicePixelRatio,2),w=Math.round(book.clientWidth*dpr),h=Math.round(book.clientHeight*dpr);if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;gl.viewport(0,0,w,h);}gl.uniform1f(phase,reduce.matches?5:time%7.25);gl.drawArrays(gl.TRIANGLES,0,6);}
+  function draw(){const dpr=Math.min(devicePixelRatio,2),w=Math.round(book.clientWidth*dpr),h=Math.round(book.clientHeight*dpr);if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;gl.viewport(0,0,w,h);}gl.uniform1f(phase,reduce.matches?5:(time%shimmerCycleSeconds)/shimmerCycleSeconds*7.25);gl.drawArrays(gl.TRIANGLES,0,6);}
   function frame(now){raf=null;if(!visible||document.hidden||reduce.matches){last=null;return;}if(last!==null)time+=(now-last)/1000;last=now;draw();raf=requestAnimationFrame(frame);}
   function resume(){if(raf!==null)cancelAnimationFrame(raf);raf=null;last=null;draw();if(visible&&!document.hidden&&!reduce.matches)raf=requestAnimationFrame(frame);}
   book.append(canvas);draw();book.classList.add('has-material');

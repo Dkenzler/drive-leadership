@@ -57,4 +57,33 @@
 .agent-strip:hover .agent-track{animation-play-state:paused}
 @keyframes agent-flow{to{transform:translateX(-50%)}}
 @media(max-width:1100px){.agent-strip{margin-left:auto;margin-right:auto}}
-@media(prefers-reduced-motion:reduce){.agent-track{animation:none}.agent-marquee{overflow-x:auto;mask-image:none}.agent-track ul[aria-hidden],}
+@media(prefers-reduced-motion:reduce){.agent-track{animation:none}.agent-marquee{overflow-x:auto;mask-image:none}.agent-track ul[aria-hidden]{display:none}}
+
+.skills-hero-actions{display:flex;align-items:center;flex-wrap:wrap;gap:14px 22px;margin-top:26px}
+.skills-hero-actions .button{gap:12px}
+.skills-hero-actions .how-link{margin-top:0}
+#skill-library{scroll-margin-top:calc(var(--navigation-height) + 16px)}
+@media(max-width:1100px){.skills-hero-actions{justify-content:center}}
+
+/* Soft editorial backdrop and more breathing room around the hero copy. */
+.skills-page .library-hero{isolation:isolate;background:transparent;box-shadow:none;padding-top:76px;padding-bottom:76px;min-height:700px}
+.skills-page .library-hero::before{content:'';position:absolute;z-index:-1;top:0;bottom:0;left:50%;width:100vw;transform:translateX(-50%);background:radial-gradient(ellipse at 91% 19%,#ffdcd4 0,transparent 40%),radial-gradient(ellipse at 76% 80%,#e8dcf7 0,transparent 48%),linear-gradient(120deg,#faf7ff,#f7f4fc 55%,#faf6fb);pointer-events:none}
+.skills-page .library-hero>div:first-child{width:640px;max-width:55%;min-width:0}
+.skills-page .library-hero h1{margin-top:26px;margin-bottom:32px;line-height:1.08}
+.skills-page .library-hero .intro{font-size:20px;line-height:1.65}
+.skills-hero-actions{margin-top:34px;gap:18px 26px}
+.skills-hero-actions .button{padding:17px 23px;min-height:52px}
+.agent-strip{margin-top:48px;padding-top:28px;border-top:1px solid #e5dfee;width:100%;max-width:600px}
+.agent-strip-heading{margin-bottom:20px}
+@media(max-width:1100px){
+ .skills-page .library-hero{padding-top:56px;padding-bottom:445px;min-height:0}
+ .skills-page .library-hero>div:first-child{width:100%;max-width:720px}
+}
+@media(max-width:760px){
+ .skills-page .library-hero{padding-top:40px;padding-bottom:360px}
+ .skills-page .library-hero .intro{font-size:17px}
+ .skills-page .library-hero h1{margin-top:22px;margin-bottom:26px}
+ .skills-hero-actions{margin-top:28px;gap:20px}
+ .agent-strip{margin-top:36px;padding-top:24px}
+}
+@media(max-width:380px){.skills-page .library-hero{padding-bottom:310px}}
