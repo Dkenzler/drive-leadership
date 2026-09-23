@@ -54,15 +54,15 @@ html{scroll-padding-top:120px}
 @media(prefers-reduced-motion:reduce){.header nav,.header .nav-actions .button,.header .nav-actions svg{transition:none}}
 
 
-.header{background:#f8f4ed}
-.header.is-scrolled{background:rgba(248,244,237,.82)}
-@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.header.is-scrolled{background:rgba(248,244,237,.97)}}
+.header{background:#fff}
+.header.is-scrolled{background:rgba(255,255,255,.78)}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.header.is-scrolled{background:rgba(255,255,255,.97)}}
 
 .header{border-bottom:1px solid #dedbd7}.header.is-scrolled{box-shadow:0 4px 18px rgba(50,40,30,.035)}
 .header nav a[aria-current="page"]{color:#6b01cd}.header nav a[aria-current="page"]:after{transform:scaleX(1)}
-/* Shared sand surface for the navigation and both page introductions. */
-.split-hero{background:#f8f4ed;box-shadow:0 0 0 100vmax #f8f4ed}
-.library-hero{background:#f8f4ed;box-shadow:0 0 0 100vmax #f8f4ed;clip-path:inset(0 -100vmax)}
+/* Shared light surface for the navigation and both page introductions. */
+.split-hero{background:#fff;box-shadow:0 0 0 100vmax #fff}
+.library-hero{background:#fff;box-shadow:0 0 0 100vmax #fff;clip-path:inset(0 -100vmax)}
 /* Fine divider across the full hero width. */
 .split-hero,.library-hero{position:relative}
 .split-hero::after,.library-hero::after{content:'';position:absolute;bottom:0;left:50%;width:100vw;height:1px;background:#dedbd7;transform:translateX(-50%);pointer-events:none;z-index:3}

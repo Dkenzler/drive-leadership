@@ -1,118 +1,1478 @@
-[
-  {
-    "slug": "okr",
-    "title": "OKRs",
-    "area": "Drive",
-    "desc": "Aus guten Absichten werden klare Ziele.",
-    "outcome": "Ein Objective und messbare Key Results als ersten Entwurf entwickeln.",
-    "context": "Zielzeitraum, Teamauftrag und die wichtigste gewünschte Veränderung",
-    "free": true,
-    "md": "---\nname: okr\ndescription: Ein Objective und messbare Key Results als ersten Entwurf entwickeln.\n---\n\n# OKRs\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEin Objective und messbare Key Results als ersten Entwurf entwickeln.\n\n## Einstieg\nFrage zuerst nach: Zielzeitraum, Teamauftrag und die wichtigste gewünschte Veränderung. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nFormuliere ein qualitatives Objective. Entwickle zwei bis vier ergebnisorientierte Key Results mit Ausgangswert, Zielwert und Messquelle. Markiere unbekannte Werte als offen. Prüfe, ob die Key Results Wirkung statt Aktivitäten messen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "playing-to-win",
-    "title": "Playing to Win",
-    "area": "Drive",
-    "desc": "Strategische Entscheidungen auf den Punkt bringen.",
-    "outcome": "Strategische Optionen mit ihren Konsequenzen sichtbar machen.",
-    "context": "Kunden, Markt, Angebot und aktuelle strategische Unsicherheit",
-    "free": true,
-    "md": "---\nname: playing-to-win\ndescription: Strategische Optionen mit ihren Konsequenzen sichtbar machen.\n---\n\n# Playing to Win\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nStrategische Optionen mit ihren Konsequenzen sichtbar machen.\n\n## Einstieg\nFrage zuerst nach: Kunden, Markt, Angebot und aktuelle strategische Unsicherheit. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nErarbeite nacheinander Gewinnanspruch, Spielfeld, Wettbewerbsvorteil, notwendige Fähigkeiten und Managementsysteme. Zeige Widersprüche zwischen den Entscheidungen. Trenne Hypothesen von belegten Annahmen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "ogsm",
-    "title": "OGSM",
-    "area": "Drive",
-    "desc": "Vom Zielbild zu konkreten Maßnahmen.",
-    "outcome": "Ziele, Strategie und Maßnahmen miteinander verbinden.",
-    "context": "Zielbild, Zeithorizont und vorhandene Kennzahlen",
-    "free": false
-  },
-  {
-    "slug": "team-charter",
-    "title": "Team Charter",
-    "area": "Lead",
-    "desc": "Zusammenarbeit bewusst vereinbaren.",
-    "outcome": "Eine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.",
-    "context": "Teamauftrag, Beteiligte und aktuelle Reibungspunkte",
-    "free": true,
-    "md": "---\nname: team-charter\ndescription: Eine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.\n---\n\n# Team Charter\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine Gesprächsgrundlage für gemeinsame Teamregeln erstellen.\n\n## Einstieg\nFrage zuerst nach: Teamauftrag, Beteiligte und aktuelle Reibungspunkte. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nErarbeite Zweck, Rollen, Entscheidungen und Kommunikationsregeln. Formuliere offene Fragen für einen Teamworkshop. Stelle Vereinbarungen nicht als bereits beschlossen dar.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "one-on-one",
-    "title": "1:1-Gespräche",
-    "area": "Lead",
-    "desc": "Raum für die richtigen Gespräche schaffen.",
-    "outcome": "Ein auf die Person abgestimmtes Gespräch vorbereiten.",
-    "context": "Anlass, Rolle und Themenwünsche ohne sensible Personendaten",
-    "free": true,
-    "md": "---\nname: one-on-one\ndescription: Ein auf die Person abgestimmtes Gespräch vorbereiten.\n---\n\n# 1:1-Gespräche\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEin auf die Person abgestimmtes Gespräch vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Anlass, Rolle und Themenwünsche ohne sensible Personendaten. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nEntwickle offene Fragen zu Wohlbefinden, Hindernissen, Zusammenarbeit und Entwicklung. Gib der anderen Person Raum für ihre Agenda. Schließe mit gemeinsam zu vereinbarenden nächsten Schritten.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "career-levels",
-    "title": "Career Level Framework",
-    "area": "Lead",
-    "desc": "Entwicklung greifbar machen.",
-    "outcome": "Beobachtbare Erwartungen je Entwicklungsstufe entwerfen.",
-    "context": "Rollenfamilie, Verantwortungsumfang und bestehende Entwicklungsstufen",
-    "free": false
-  },
-  {
-    "slug": "priorisierung",
-    "title": "Prioritäten klären",
-    "area": "Ship",
-    "desc": "Das Wichtige vor dem Dringenden sehen.",
-    "outcome": "Eine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.",
-    "context": "Vorhaben, Zielbeitrag, Aufwand und Abhängigkeiten",
-    "free": true,
-    "md": "---\nname: priorisierung\ndescription: Eine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.\n---\n\n# Prioritäten klären\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine nachvollziehbare Reihenfolge für konkurrierende Vorhaben schaffen.\n\n## Einstieg\nFrage zuerst nach: Vorhaben, Zielbeitrag, Aufwand und Abhängigkeiten. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nVergleiche Vorhaben nach transparenten Kriterien. Kennzeichne unsichere Schätzungen. Prüfe Abhängigkeiten und Kapazität, bevor du eine Reihenfolge vorschlägst.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "retrospektive",
-    "title": "Retrospektive",
-    "area": "Ship",
-    "desc": "Aus Erfahrungen bessere Zusammenarbeit machen.",
-    "outcome": "Eine fokussierte Retrospektive vorbereiten.",
-    "context": "Zeitraum, Teamgröße und ein konkretes Lernziel",
-    "free": true,
-    "md": "---\nname: retrospektive\ndescription: Eine fokussierte Retrospektive vorbereiten.\n---\n\n# Retrospektive\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine fokussierte Retrospektive vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Zeitraum, Teamgröße und ein konkretes Lernziel. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nPlane Check-in, Beobachtungen, Ursachenarbeit und Maßnahmen. Trenne Beobachtung und Interpretation. Begrenze Maßnahmen auf wenige überprüfbare Experimente mit Verantwortlichen.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "shape-up",
-    "title": "Shape Up",
-    "area": "Ship",
-    "desc": "Vorhaben auf eine sinnvolle Größe bringen.",
-    "outcome": "Ein Problem zu einem diskutierbaren Pitch formen.",
-    "context": "Problem, Zeitbudget und bekannte Einschränkungen",
-    "free": false
-  },
-  {
-    "slug": "wochenreflexion",
-    "title": "Wochenreflexion",
-    "area": "Yourself",
-    "desc": "Kurz innehalten. Bewusster weitergehen.",
-    "outcome": "Erfahrungen in einen konkreten nächsten Schritt übersetzen.",
-    "context": "Wichtige Ereignisse, Energiequellen und offene Entscheidungen",
-    "free": true,
-    "md": "---\nname: wochenreflexion\ndescription: Erfahrungen in einen konkreten nächsten Schritt übersetzen.\n---\n\n# Wochenreflexion\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nErfahrungen in einen konkreten nächsten Schritt übersetzen.\n\n## Einstieg\nFrage zuerst nach: Wichtige Ereignisse, Energiequellen und offene Entscheidungen. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nFrage nach Wirkung, Energie und Lernen. Suche Muster, ohne Motive zu unterstellen. Formuliere ein kleines Experiment für die nächste Woche.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "delegation",
-    "title": "Delegation reflektieren",
-    "area": "Yourself",
-    "desc": "Verantwortung wirksam abgeben.",
-    "outcome": "Eine passende Delegationsvereinbarung vorbereiten.",
-    "context": "Aufgabe, Entscheidungsrahmen und Unterstützungsbedarf",
-    "free": true,
-    "md": "---\nname: delegation\ndescription: Eine passende Delegationsvereinbarung vorbereiten.\n---\n\n# Delegation reflektieren\n\nArbeitsentwurf für die DRIVE Skill-Bibliothek. Mit dem passenden Kapitel im Buch abgleichen.\n\n## Aufgabe\nEine passende Delegationsvereinbarung vorbereiten.\n\n## Einstieg\nFrage zuerst nach: Aufgabe, Entscheidungsrahmen und Unterstützungsbedarf. Stelle höchstens drei Fragen auf einmal und warte auf die Antworten.\n\n## Vorgehen\nKläre erwartetes Ergebnis, Entscheidungsspielraum, Ressourcen und Rückkopplung. Frage nach Zustimmung und Bereitschaft. Delegiere keine Verantwortung ohne entsprechende Befugnisse.\n\nArbeite schrittweise. Frage nach fehlendem Kontext und erfinde keine Fakten, Kennzahlen oder Entscheidungen. Nutze vom Nutzer bereitgestellte Buchnotizen, ohne Buchinhalte zu behaupten, die dir nicht vorliegen.\n\n## Ergebnis\nLiefere einen kompakten Arbeitsentwurf, offene Annahmen und einen konkreten nächsten Schritt. Bitte um Rückmeldung, bevor du den Entwurf weiter ausarbeitest.\n\n## Grenzen\nDie Entscheidung bleibt beim Menschen. Fordere keine vertraulichen Mitarbeiter- oder Kundendaten an; nutze anonymisierte Beispiele.\n"
-  },
-  {
-    "slug": "energie",
-    "title": "Energie & Fokus",
-    "area": "Yourself",
-    "desc": "Deine Aufmerksamkeit bewusst einsetzen.",
-    "outcome": "Den eigenen Arbeitsrhythmus reflektieren.",
-    "context": "Typische Arbeitswoche, Verpflichtungen und persönliche Beobachtungen",
-    "free": false
-  }
-]
+{
+  "mode": "catalogue",
+  "skills": [
+    {
+      "slug": "leadership-flywheel",
+      "title": "Leadership Flywheel",
+      "area": "Flywheel",
+      "topic": "Leadership Flywheel",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Die eigene Führungssituation einordnen mit dem Leadership Flywheel von Dominik Kenzler, dem Rahmenmodell des Drive Leadership Playbook. Nutze diesen Skill, wenn jemand nicht weiß, wo er als Führungskraft ansetzen soll, eine neue Rolle oder ein neues Team übernimmt, ein dysfunktionales Team hat, in einem festgefahrenen Projekt steckt, an der eigenen Wirksamkeit zweifelt oder einen regelmäßigen Selbstcheck machen will. Ordnet die Situation in die vier Themenbereiche des Inner Wheel (DRIVE, LEAD, SHIP, YOURSELF) und die sieben Prozessschritte des Outer Wheel ein, bestimmt den typischen Einstiegspunkt und verweist auf die passenden Methoden-Skills des Buchs.",
+      "desc": "Die eigene Führungssituation einordnen mit dem Leadership Flywheel von Dominik Kenzler, dem Rahmenmodell des Drive Leadership Playbook.",
+      "summary": "Führung funktioniert nicht linear. Du entwickelst dein Team, während du an der Vision arbeitest, und triffst Entscheidungen, während du dich selbst reflektierst. Das Leadership Flywheel bildet Führung deshalb als sich selbst verstärkendes System ab. Das Flywheel-Denken geht auf Jim Collins (»Good to Great«) zurück: Durchbrüche entstehen nicht durch eine spektakuläre Entscheidung, sondern durch konsequenten Aufbau von Momentum. Flywheel heißt dabei nicht langsam und geduldig: Energie, Fokus und Disziplin werden mit Drive ausgeführt, kurzfristig pushen für ein langfristiges Ziel.",
+      "files": [
+        "SKILL.md",
+        "templates/selbstcheck.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "keynote",
+      "title": "Keynote",
+      "area": "Drive",
+      "topic": "D1 Target Picture",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Eine Vision als Keynote oder Präsentation erzählen, nach dem Vorbild früher Start-up-Decks, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand ein Zukunftsbild für Unternehmen, Produkt oder Bereich vor Publikum vermitteln, eine Visions-Keynote oder einen Talk aufbauen, ein Vision Deck mit wenigen Seiten strukturieren oder eine überladene Präsentation auf eine klare Dramaturgie reduzieren will. Führt durch die Leitfragen Problem, Größe von Problem und Markt, Lösung und Potenzial und baut eine Seitenfolge mit einem Gedanken pro Seite.",
+      "desc": "Eine Vision als Keynote oder Präsentation erzählen, nach dem Vorbild früher Start-up-Decks, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Keynotes und TED Talks können ein perfektes Mittel sein, um ein Zukunftsbild zu vermitteln. Sie können auch sterbenslangweilig sein, wenn dem Publikum nach der zweiten Folie voller Tabellen und Kleingedrucktem der Kopf schwirrt. Eine gute Story, richtig erzählt und mit einer durchdachten Präsentation, kann inspirieren und Zukunftsbilder erzeugen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "visiontype",
+      "title": "Visiontype",
+      "area": "Drive",
+      "topic": "D1 Target Picture",
+      "origin": "Mike Aurelio (laut Abb. 3.1)",
+      "deepDive": false,
+      "description": "Eine Firmen- oder Produktvision als kurzes Video zeigen mit dem Visiontype, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand ein Zukunftsbild erlebbar machen, ein zwei- bis fünfminütiges Visionsvideo konzipieren, eine Produktvision in einer konkreten Szene zeigen oder ein Konzept für ein KI-generiertes Video oder einen Realfilm vorbereiten will. Führt von Thema und Zeithorizont über die Szene bis zu einem Konzept mit Szenenfolge.",
+      "desc": "Eine Firmen- oder Produktvision als kurzes Video zeigen mit dem Visiontype, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Visiontypes sind kurze Videos von zwei bis fünf Minuten, die ein Zukunftsbild zeigen. Sie können animiert oder als Realfilm produziert sein und Produkte oder Services einschließen. Was vor ein paar Jahren noch aufwendig war, lässt sich heute dank KI-gestützter Bild- und Videogenerierung ohne großes Team umsetzen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "pr-faq",
+      "title": "PR/FAQ Article",
+      "area": "Drive",
+      "topic": "D1 Target Picture",
+      "origin": "Amazon, beschrieben von Colin Bryar und Bill Carr (Working Backwards)",
+      "deepDive": true,
+      "description": "Ein Zielbild für ein neues Produkt oder eine Initiative schreiben mit dem PR/FAQ Article nach dem Working-Backwards-Prinzip von Amazon (beschrieben von Colin Bryar und Bill Carr), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Produktidee vom Kundenerlebnis her denken, eine Vision für ein Produkt oder Vorhaben greifbar machen, Annahmen und Risiken früh sichtbar machen oder vor Entwicklungsstart entscheiden will, ob sich eine Idee lohnt. Führt durch Kunde und Problem, fiktive Pressemitteilung, externe und interne FAQ, gemeinsames Challengen und die Entscheidung.",
+      "desc": "Ein Zielbild für ein neues Produkt oder eine Initiative schreiben mit dem PR/FAQ Article nach dem Working-Backwards-Prinzip von Amazon (beschrieben von Colin Bryar und Bill Carr), aus dem Drive Leadership Playbook.",
+      "summary": "Bevor ein Team mit der Entwicklung beginnt, schreibt es eine fiktive Pressemitteilung. Sie beschreibt das fertige Produkt so, als käme es gerade auf den Markt. Dazu kommen FAQs: häufig gestellte Fragen von Kundschaft, Medien und aus der eigenen Organisation. Das Prinzip heißt Working Backwards: mit dem Zielbild beginnen.",
+      "files": [
+        "SKILL.md",
+        "templates/pr-faq.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "5-bold-steps",
+      "title": "5 Bold Steps Vision",
+      "area": "Drive",
+      "topic": "D1 Target Picture",
+      "origin": "David Sibbet, The Grove Consultants International",
+      "deepDive": false,
+      "description": "Eine Vision gemeinsam mit einem Team auf eine Seite bringen mit der 5 Bold Steps Vision® Canvas von David Sibbet (The Grove Consultants International), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Vision für Unternehmen, Bereich oder Team formulieren, eine Visions-Session oder einen Workshop vorbereiten, die großen Schritte zur Vision festlegen oder Stärken und Hindernisse auf dem Weg sichtbar machen will. Führt durch Vision Statement, zentrale Themen, fünf Bold Steps, Supports und Challenges.",
+      "desc": "Eine Vision gemeinsam mit einem Team auf eine Seite bringen mit der 5 Bold Steps Vision® Canvas von David Sibbet (The Grove Consultants International), aus dem Drive Leadership Playbook.",
+      "summary": "Die 5 Bold Steps Vision® ist eine Canvas, ein visuelles Werkzeug, um eine Gruppe zu fokussieren und auszurichten. Sie gibt einer Session eine klare Struktur und leitet ein Team an, die wenigen Schritte zu identifizieren, die nötig sind, um eine Vision zu erreichen. Sie fördert mutiges Denken und stärkt die gemeinsame Planungsfähigkeit.",
+      "files": [
+        "SKILL.md",
+        "templates/5-bold-steps-canvas.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "11-star-experience",
+      "title": "11-Star Experience",
+      "area": "Drive",
+      "topic": "D1 Target Picture",
+      "origin": "Brian Chesky",
+      "deepDive": false,
+      "description": "Über das Erwartbare hinausdenken und ein differenziertes Kundenerlebnis entwickeln mit der 11-Star Experience von Brian Chesky (Airbnb), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Product Vision entwickeln, ein Service- oder Kundenerlebnis neu denken, ein Team aus rein inkrementellem Denken holen oder einen Ideen-Workshop zum Kundenerlebnis vorbereiten will. Führt von der heutigen Erfahrung Stern für Stern bis ins Absurde und zurück zu dem, was umsetzbar ist.",
+      "desc": "Über das Erwartbare hinausdenken und ein differenziertes Kundenerlebnis entwickeln mit der 11-Star Experience von Brian Chesky (Airbnb), aus dem Drive Leadership Playbook.",
+      "summary": "Die 11-Star Experience stammt von Brian Chesky, Mitgründer von Airbnb. Sie hilft, über das Erwartbare hinaus zu denken und ein differenziertes Kundenerlebnis zu entwickeln. Man fragt nicht nur, was eine gute Kundenerfahrung wäre, sondern auch, was eine absurd gute Erfahrung wäre.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "playing-to-win",
+      "title": "Playing to Win",
+      "area": "Drive",
+      "topic": "D2 Strategy",
+      "origin": "A.G. Lafley und Roger Martin",
+      "deepDive": true,
+      "description": "Strategie entwickeln mit Playing to Win (A.G. Lafley, Roger Martin) und der Strategy Choice Cascade, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Unternehmens-, Produkt- oder Bereichsstrategie erarbeiten, Where to Play und How to Win festlegen, eine bestehende Strategie auf Kohärenz prüfen oder einen Strategie-Workshop vorbereiten will. Führt durch die fünf Entscheidungen (Winning Aspiration, Where to Play, How to Win, Capabilities, Management Systems) und die Frage »Was müsste wahr sein?«.",
+      "desc": "Strategie entwickeln mit Playing to Win (A.G. Lafley, Roger Martin) und der Strategy Choice Cascade, aus dem Drive Leadership Playbook.",
+      "summary": "Playing to Win versteht Strategie nicht als Plan, sondern als kleine Menge eng verbundener Entscheidungen, die ein Unternehmen so positionieren, dass es in seinem Markt gewinnt. Strategie besteht aus fünf Entscheidungen, die aufeinander aufbauen, der Strategy Choice Cascade:",
+      "files": [
+        "SKILL.md",
+        "templates/strategy-cascade.md",
+        "templates/workshop-agenda.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "errc-grid-value-curve",
+      "title": "ERRC Grid & Value Curve",
+      "area": "Drive",
+      "topic": "D2 Strategy",
+      "origin": "W. Chan Kim und Renée Mauborgne",
+      "deepDive": false,
+      "description": "Sich vom Wettbewerb klar unterscheiden mit ERRC Grid und Value Curve (Strategy Canvas) aus dem Blue-Ocean-Ansatz von W. Chan Kim und Renée Mauborgne, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Differenzierungsstrategie entwickeln, das eigene Angebot mit Wettbewerbern vergleichen, den Verdrängungswettbewerb verlassen, Wettbewerbsfaktoren einer Branche bestimmen oder entscheiden will, was weggelassen, reduziert, verstärkt oder neu geschaffen wird. Führt von den Wettbewerbsfaktoren über die Branchenkurve und das ERRC Grid zur neuen Value Curve.",
+      "desc": "Sich vom Wettbewerb klar unterscheiden mit ERRC Grid und Value Curve (Strategy Canvas) aus dem Blue-Ocean-Ansatz von W. Chan Kim und Renée Mauborgne, aus dem Drive Leadership Playbook.",
+      "summary": "ERRC Grid und Value Curve stammen aus dem Blue-Ocean-Ansatz von W. Chan Kim und Renée Mauborgne. Beide verfolgen dasselbe Ziel: sich nicht im Verdrängungswettbewerb aufzureiben, sondern einen eigenen Raum zu schaffen, in dem du dich klar unterscheidest.",
+      "files": [
+        "SKILL.md",
+        "templates/errc-value-curve.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "dhm-glee",
+      "title": "DHM & GLEe",
+      "area": "Drive",
+      "topic": "D2 Strategy",
+      "origin": "Gibson Biddle",
+      "deepDive": false,
+      "description": "Produktstrategie entwickeln mit GLEe (Get big on, Lead, Expand) und DHM (Delight, Hard-to-copy, Margin-enhancing) von Gibson Biddle, ehemals VP Product bei Netflix, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine langfristige Produktvision in aufeinander aufbauende Phasen gliedern, entscheiden will, womit man anfängt, ohne sich zu verzetteln, eine Liste von Ideen oder Initiativen nach strategischem Wert priorisieren oder bestehende Ideen einer Due Diligence unterziehen will.",
+      "desc": "Produktstrategie entwickeln mit GLEe (Get big on, Lead, Expand) und DHM (Delight, Hard-to-copy, Margin-enhancing) von Gibson Biddle, ehemals VP Product bei Netflix, aus dem Drive Leadership Playbook.",
+      "summary": "Beide Frameworks stammen von Gibson Biddle, dem ehemaligen VP Product bei Netflix. GLEe dient der langfristigen Ausrichtung, DHM der Bewertung konkreter Ideen und Initiativen.",
+      "files": [
+        "SKILL.md",
+        "templates/dhm-glee.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "three-horizons",
+      "title": "Drei Horizonte",
+      "area": "Drive",
+      "topic": "D2 Strategy",
+      "origin": "McKinsey",
+      "deepDive": false,
+      "description": "Aktivitäten und Initiativen nach Zeithorizont sortieren und die Balance zwischen Gegenwart und Zukunft prüfen mit dem Drei-Horizonte-Modell (Three Horizons of Growth) nach McKinsey, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Strategie oder ein Portfolio auf den richtigen Mix aus Kerngeschäft, Wachstumsinitiativen und Zukunftswetten prüfen, Ressourcen zwischen kurz-, mittel- und langfristigen Themen verteilen oder erkennen will, ob eine Organisation zu stark im Heute feststeckt oder zu viel auf eine unsichere Zukunft setzt.",
+      "desc": "Aktivitäten und Initiativen nach Zeithorizont sortieren und die Balance zwischen Gegenwart und Zukunft prüfen mit dem Drei-Horizonte-Modell (Three Horizons of Growth) nach McKinsey, aus dem Drive Leadership Playbook.",
+      "summary": "Das Drei-Horizonte-Modell stammt ursprünglich von McKinsey und hilft, Aktivitäten nach dem Zeithorizont zu sortieren. Als Unternehmen, aber auch in jeder Führungsrolle, muss man parallel in kurz-, mittel- und langfristige Themen investieren. Manche Dinge muss man heute anstoßen, damit sie in ein paar Jahren Wirkung zeigen können.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "hedgehog-concept",
+      "title": "Hedgehog Concept",
+      "area": "Drive",
+      "topic": "D2 Strategy",
+      "origin": "Jim Collins",
+      "deepDive": false,
+      "description": "Prüfen, ob eine Strategie wirklich zur eigenen Organisation passt, mit dem Hedgehog Concept von Jim Collins (Good to Great), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Strategie fokussieren, eine generische Strategie auf die eigenen Stärken zurückführen, Optionen auf ihren Bezug zur eigenen DNA prüfen oder in der Strategiearbeit eine zusätzliche Perspektive einnehmen will. Führt durch die drei Fragen: Was können wir am besten? Wofür brennen wir? Was treibt unseren wirtschaftlichen Motor?",
+      "desc": "Prüfen, ob eine Strategie wirklich zur eigenen Organisation passt, mit dem Hedgehog Concept von Jim Collins (Good to Great), aus dem Drive Leadership Playbook.",
+      "summary": "Das Hedgehog Concept stammt von Jim Collins aus dem Buch »Good to Great«. Es basiert auf drei Fragen:",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "strategic-objectives",
+      "title": "Strategic Objectives",
+      "area": "Drive",
+      "topic": "D3 Set Strategic Goals",
+      "origin": "Dominik Kenzler",
+      "deepDive": true,
+      "description": "Strategic Objectives festlegen, aus dem Drive Leadership Playbook von Dominik Kenzler. Drei bis fünf mehrjährige Unternehmensziele, die als Dach über OKRs, Quartals- und Teamzielen stehen. Nutze diesen Skill, wenn jemand strategische Ziele für Unternehmen, Bereich oder Abteilung aus einer Vision ableiten, zu viele Ziele auf wenige verdichten, eine Führungsrunde zu Zielen vorbereiten oder prüfen will, ob laufende Vorhaben und OKRs auf die großen Ziele einzahlen (Einzahlungs-Test, Dach-Test). Auch nützlich, wenn Teams Zielkonflikte haben und ein Maßstab für Priorisierung fehlt.",
+      "desc": "Strategic Objectives festlegen, aus dem Drive Leadership Playbook von Dominik Kenzler. Drei bis fünf mehrjährige Unternehmensziele, die als Dach über OKRs, Quartals- und Teamzielen stehen.",
+      "summary": "Strategic Objectives sind die drei bis fünf zentralen Ziele eines Unternehmens, typischerweise auf einen Horizont von etwa drei Jahren angelegt. Sie beantworten genau eine Frage: Was sind die wenigen Dinge, die wir in den nächsten Jahren unbedingt erreichen müssen, um unsere Vision zu verwirklichen?",
+      "files": [
+        "SKILL.md",
+        "templates/strategic-objectives-dach.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "north-star-metric",
+      "title": "North Star Metric",
+      "area": "Drive",
+      "topic": "D3 Set Strategic Goals",
+      "origin": "John Cutler (Framework-Darstellung)",
+      "deepDive": false,
+      "description": "Eine North Star Metric finden und mit Input-Metriken unterlegen, aus dem Drive Leadership Playbook von Dominik Kenzler, mit dem North Star Metric Framework nach John Cutler. Nutze diesen Skill, wenn jemand die eine zentrale Value-Metrik für Unternehmen oder Produkt bestimmen, die Organisation auf eine strategische Größe fokussieren, Input-Metriken ableiten oder einen Kompass für Produktentscheidungen und Zielkonflikte schaffen will (»Welche Option verbessert unsere North Star Metric?«). Grenzt die North Star Metric von Revenue-Metriken und vom OMTM ab.",
+      "desc": "Eine North Star Metric finden und mit Input-Metriken unterlegen, aus dem Drive Leadership Playbook von Dominik Kenzler, mit dem North Star Metric Framework nach John Cutler.",
+      "summary": "Die North Star Metric ist eine zentrale Metrik, die den Kernwert des Unternehmens für seine Nutzer misst. Sie fokussiert die gesamte Organisation auf eine einzige strategische Größe. Die Idee: Wenn diese eine Metrik steigt, geht es dem Unternehmen gut, weil sie den Wert misst, den Nutzer tatsächlich erhalten.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "gem",
+      "title": "GEM",
+      "area": "Drive",
+      "topic": "D3 Set Strategic Goals",
+      "origin": "Gibson Biddle",
+      "deepDive": false,
+      "description": "Strategische Produktprioritäten mit GEM setzen (Growth, Engagement, Monetization) nach Gibson Biddle, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand festlegen will, was auf Produktebene gerade am wichtigsten ist, eine Forced-Rank-Rangfolge zwischen Wachstum, Nutzung und Monetarisierung braucht, Zielkonflikte zwischen Teams auflösen will (etwa Discount gegen Preiserhöhung) oder die Priorisierung für eine neue Unternehmensphase neu setzt. Verhindert, dass alle drei Dimensionen als »gleich wichtig« gelten.",
+      "desc": "Strategische Produktprioritäten mit GEM setzen (Growth, Engagement, Monetization) nach Gibson Biddle, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "GEM ist ein Framework für strategische Ziele in der Produktentwicklung. Es priorisiert innerhalb von drei Dimensionen:",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "bhag",
+      "title": "BHAG",
+      "area": "Drive",
+      "topic": "D3 Set Strategic Goals",
+      "origin": "Jim Collins",
+      "deepDive": false,
+      "description": "Ein BHAG (Big Hairy Audacious Goal) nach Jim Collins formulieren, aus dem Drive Leadership Playbook von Dominik Kenzler. Ein großes, langfristiges Ziel auf zehn bis 25 Jahre. Nutze diesen Skill, wenn jemand ein ambitioniertes Langfristziel für eine Organisation finden will, nur noch Hindernisse und Blockaden sieht und für einen Moment die Machbarkeit ausblenden möchte, zwischen den vier BHAG-Typen (Target, Common Enemy, Role Model, Internal Transformation) wählen oder prüfen will, ob ein großes Ziel die Menschen wirklich begeistert.",
+      "desc": "Ein BHAG (Big Hairy Audacious Goal) nach Jim Collins formulieren, aus dem Drive Leadership Playbook von Dominik Kenzler. Ein großes, langfristiges Ziel auf zehn bis 25 Jahre.",
+      "summary": "BHAG steht für Big Hairy Audacious Goal: ein großes, langfristiges Ziel auf zehn bis 25 Jahre. Das Konzept stammt von Jim Collins aus »Built to Last«.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "wigs",
+      "title": "Wildly Important Goals",
+      "area": "Drive",
+      "topic": "D3 Set Strategic Goals",
+      "origin": "Chris McChesney, Sean Covey und Jim Huling",
+      "deepDive": false,
+      "description": "Wildly Important Goals (WIGs) formulieren, aus »The 4 Disciplines of Execution« von Chris McChesney, Sean Covey und Jim Huling, wie im Drive Leadership Playbook von Dominik Kenzler beschrieben. Nutze diesen Skill, wenn jemand die zwei bis drei Ziele finden will, die den größten Unterschied machen, Ziele ins Format »From X to Y by When« bringen will, bei Turnarounds, Ressourcenknappheit oder zu vielen parallelen Initiativen Fokus herstellen muss oder sicherstellen will, dass jede Person und jedes Team nur ein WIG verfolgt.",
+      "desc": "Wildly Important Goals (WIGs) formulieren, aus »The 4 Disciplines of Execution« von Chris McChesney, Sean Covey und Jim Huling, wie im Drive Leadership Playbook von Dominik Kenzler beschrieben.",
+      "summary": "Wildly Important Goals (WIGs) stammen aus »The 4 Disciplines of Execution«. Die Idee: Identifiziere jene zwei bis drei Ziele, die wirklich den größten Unterschied machen würden. Die entscheidende Frage ist nicht »Was ist am wichtigsten?«, sondern »Wo wollen wir einen Durchbruch erzielen?«. Das fokussiert auf echte Veränderung, nicht auf das Verwalten des Status quo.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "roadmap-anatomy",
+      "title": "Anatomie einer Roadmap",
+      "area": "Drive",
+      "topic": "D4 Guiding Principles (Strategic Planning)",
+      "origin": "C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors",
+      "deepDive": false,
+      "description": "Eine strategische Roadmap nach den fünf Kernelementen aus »Product Roadmaps Relaunched« (C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors) aufbauen oder prüfen, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand eine Roadmap für Produkt, Team oder Bereich erstellen, eine bestehende Roadmap auf Vision, Business Objectives, Timeframes, Themes und Disclaimer prüfen, optionale Elemente wie Confidence Levels oder Zielkunden auswählen oder Roadmap und Release- oder Projektplan sauber trennen will.",
+      "desc": "Eine strategische Roadmap nach den fünf Kernelementen aus »Product Roadmaps Relaunched« (C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors) aufbauen oder prüfen, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Bevor es um Formate geht, lohnt ein Blick auf die Grundstruktur: Was gehört auf eine Roadmap und was nicht? Bruce McCarthy und sein Team treffen in »Product Roadmaps Relaunched« eine klare Unterscheidung: Eine Roadmap ist ein strategisches Artefakt. Ein Release Plan ist ein taktisches Artefakt. Die Roadmap steuert Outcomes, der Projektplan steuert Outputs. Wer beides vermischt, verliert beides.",
+      "files": [
+        "SKILL.md",
+        "templates/roadmap.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "ogsm",
+      "title": "OGSM",
+      "area": "Drive",
+      "topic": "D4 Guiding Principles (Strategic Planning)",
+      "origin": "Japan, von Procter & Gamble verfeinert und standardisiert",
+      "deepDive": true,
+      "description": "Strategie mit OGSM (Objectives, Goals, Strategies, Measures) auf einer Seite planen, aus dem Drive Leadership Playbook von Dominik Kenzler. Methode aus Japan, von Procter & Gamble standardisiert. Nutze diesen Skill, wenn jemand aus einer strategischen Richtung einen einseitigen Plan machen, Jahresstrategie in Goals, Strategies, Kennzahlen und Aktionen mit Owner übersetzen, einen OGSM von der Unternehmens- auf die Team-Ebene kaskadieren oder einen bestehenden Plan auf eine durchgehende Sichtlinie prüfen will. Auch zur Vorbereitung eines OGSM-Workshops mit der Führungsrunde.",
+      "desc": "Strategie mit OGSM (Objectives, Goals, Strategies, Measures) auf einer Seite planen, aus dem Drive Leadership Playbook von Dominik Kenzler. Methode aus Japan, von Procter & Gamble standardisiert.",
+      "summary": "OGSM steht für Objective, Goals, Strategies, Measures. Das Framework fasst die gesamte strategische Planung auf einer einzigen Seite zusammen. Eine Strategie scheitert selten an der Absicht, sondern daran, dass die Ebene der großen Ziele und die Ebene der täglichen Arbeit auseinanderfallen. OGSM verbindet beide.",
+      "files": [
+        "SKILL.md",
+        "templates/ogsm-one-page.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "hoshin-kanri",
+      "title": "Hoshin Kanri",
+      "area": "Drive",
+      "topic": "D4 Guiding Principles (Strategic Planning)",
+      "origin": "Toyota",
+      "deepDive": false,
+      "description": "Strategische Planung mit Hoshin Kanri (»Kompass-Management«, von Toyota entwickelt) und dem Catchball-Prozess, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand in einer größeren Organisation mit mehreren Ebenen Prioritäten im Dialog mit den Teams klären, Vision, Durchbruchziele, Jahresziele, Strategien, Maßnahmen und Kennzahlen in einer Matrix verbinden oder Alignment herstellen will, weil frühere Strategien an der Umsetzung gescheitert sind. Schlanke Fassung: Das Buch nutzt vor allem den Catchball-Gedanken, nicht die volle Form mit X-Matrix, A3-Reports und mehrstufigen Review-Zyklen.",
+      "desc": "Strategische Planung mit Hoshin Kanri (»Kompass-Management«, von Toyota entwickelt) und dem Catchball-Prozess, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Hoshin Kanri bedeutet »Kompass-Management«. Das Framework stammt aus den 1960er-Jahren und wurde von Toyota entwickelt. In seiner vollen Form ist es ziemlich komplex, mit X-Matrix, A3-Reports und mehrstufigen Review-Zyklen. Das Buch nimmt es auf, weil es Ansätze enthält, die für das strategische Planen sehr nützlich sind, vor allem den Catchball-Prozess, um sich im Team über Prioritäten klar zu werden.",
+      "files": [
+        "SKILL.md",
+        "templates/hoshin-matrix.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "go-product-roadmap",
+      "title": "GO Product Roadmap",
+      "area": "Drive",
+      "topic": "D4 Guiding Principles (Strategic Planning)",
+      "origin": "Roman Pichler",
+      "deepDive": false,
+      "description": "Eine zielorientierte Roadmap mit der GO Product Roadmap (Goal-Oriented) nach Roman Pichler erstellen, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand eine Produkt-, Team- oder Bereichs-Roadmap bauen will, die Ergebnisse (Outcomes) statt Features zeigt, Ziele und Initiativen über Zeithorizonte kommunizieren, Tradeoffs sichtbar machen oder eine Feature-Liste in eine stabile, zielorientierte Roadmap mit Datum, Name, Ziel, Metrik und Features umbauen will.",
+      "desc": "Eine zielorientierte Roadmap mit der GO Product Roadmap (Goal-Oriented) nach Roman Pichler erstellen, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "GO steht für »Goal-Oriented«. Statt Features und Funktionen aufzulisten, zeigt die GO Product Roadmap, welche Ergebnisse (Outcomes) erreicht werden sollen. Ursprünglich für Product Roadmaps entwickelt, eignet sich das Format genauso für Team- oder Bereichs-Roadmaps, überall dort, wo Ziele und Initiativen über Zeithorizonte kommuniziert werden sollen.",
+      "files": [
+        "SKILL.md",
+        "templates/go-roadmap.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "now-next-later",
+      "title": "Now, Next, Later",
+      "area": "Drive",
+      "topic": "D4 Guiding Principles (Strategic Planning)",
+      "origin": "Janna Bastow und Simon Cast",
+      "deepDive": false,
+      "description": "Eine Roadmap im Format Now, Next, Later nach Janna Bastow und Simon Cast aufbauen, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand eine Roadmap ohne feste Termine erstellen, Vorhaben nach Nähe und Gewissheit statt nach Datum ordnen, lange Diskussionen über Deadlines und Machbarkeit vermeiden, zu viel parallele Arbeit im Now sichtbar machen oder eine operative Teamplanung in schnelllebigem Umfeld aufsetzen will. Auch als Ergänzung zur GO Product Roadmap für Stakeholder.",
+      "desc": "Eine Roadmap im Format Now, Next, Later nach Janna Bastow und Simon Cast aufbauen, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Now, Next, Later wurde 2012 von Janna Bastow und Simon Cast erfunden. Das Format verzichtet bewusst auf feste Termine. Bastow nennt klassische Timeline-Roadmaps »date theater«, ein Schauspiel, bei dem alle so tun, als wären die Deadlines realistisch.",
+      "files": [
+        "SKILL.md",
+        "templates/now-next-later.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "50-25-25-rule",
+      "title": "50-25-25 Rule",
+      "area": "Drive",
+      "topic": "D5 Communicate Direction",
+      "origin": "Terry Szuplat",
+      "deepDive": false,
+      "description": "Präsentationen, Reden und Ansprachen vorbereiten mit der 50-25-25 Rule von Terry Szuplat (Redenschreiber von Barack Obama, »Say It Well«), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Strategie- oder Visionspräsentation, ein All-Hands, eine Keynote, einen Pitch oder einen Toast vorbereiten muss, nicht weiß, wie er die verfügbare Zeit aufteilen soll, zu früh mit Slides anfängt oder regelmäßig zu wenig übt. Teilt die Vorbereitungszeit in 50 Prozent Denken, Recherche und Strukturieren, 25 Prozent Schreiben und 25 Prozent Überarbeiten und Üben und führt durch jede Phase.",
+      "desc": "Präsentationen, Reden und Ansprachen vorbereiten mit der 50-25-25 Rule von Terry Szuplat (Redenschreiber von Barack Obama, »Say It Well«), aus dem Drive Leadership Playbook.",
+      "summary": "In Leadership-Rollen kommunizierst du regelmäßig an größere Gruppen, oft mit Präsentationen. Terry Szuplat, langjähriger Redenschreiber von Barack Obama, beschreibt in »Say It Well« eine einfache Aufteilung der Vorbereitungszeit:",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "minto-pyramid-principle",
+      "title": "Minto Pyramid Principle",
+      "area": "Drive",
+      "topic": "D5 Communicate Direction",
+      "origin": "Barbara Minto",
+      "deepDive": false,
+      "description": "Botschaften strukturieren mit dem Minto Pyramid Principle von Barbara Minto (»The Pyramid Principle«), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Entscheidungsvorlage, ein Status-Update, eine Executive Summary, ein Memo, eine Präsentation oder eine Slack-Nachricht an Führungskräfte schreiben will, zu lange braucht, um auf den Punkt zu kommen, oder chronologisch statt vom Ergebnis her erzählt. Baut die Botschaft als Pyramide auf: Kernaussage zuerst, darunter zwei bis vier stützende Argumente, darunter Details und Daten (Bottom line up front).",
+      "desc": "Botschaften strukturieren mit dem Minto Pyramid Principle von Barbara Minto (»The Pyramid Principle«), aus dem Drive Leadership Playbook.",
+      "summary": "Die meisten Menschen kommunizieren so, wie sie denken: chronologisch. Erst der Kontext, dann die Analyse, schließlich die Schlussfolgerung. Das Publikum muss bis zum Ende warten, um zu verstehen, worauf es hinausläuft. In Präsentationen und Meetings führt das zu Ungeduld, Verwirrung, oder die Zuhörenden schalten ab.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "star-moment",
+      "title": "S.T.A.R. Moment",
+      "area": "Drive",
+      "topic": "D5 Communicate Direction",
+      "origin": "Nancy Duarte",
+      "deepDive": false,
+      "description": "Einen einprägsamen Höhepunkt für eine Präsentation gestalten mit der S.T.A.R. Moment Methode (Something They'll Always Remember) von Nancy Duarte (»Resonate«), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine Strategie-Präsentation, ein Kick-off, eine Keynote oder einen externen Pitch vorbereitet und will, dass die Botschaft hängen bleibt, wenn eine Präsentation austauschbar wirkt oder keinen Höhepunkt hat. Führt von der Kernbotschaft über die Wahl eines der fünf Typen (Dramatisierung, wiederholbare Soundbites, evokative Visuals, emotionales Storytelling, überraschende Statistiken) bis zum Üben des Moments. Nicht zu verwechseln mit der S.T.A.R.-Methode für Interviews.",
+      "desc": "Einen einprägsamen Höhepunkt für eine Präsentation gestalten mit der S.T.A.R. Moment Methode (Something They'll Always Remember) von Nancy Duarte (»Resonate«), aus dem Drive Leadership Playbook.",
+      "summary": "Die meisten Präsentationen werden vergessen, vor allem weil sie keine einprägsamen Momente enthalten: viele gleichwertige Slides, kein Höhepunkt, nichts, was hängen bleibt. Nancy Duarte, Gründerin der Präsentationsagentur Duarte und Autorin von »Resonate«, hat dafür die S.T.A.R.-Moment-Methode entwickelt. S.T.A.R. steht für **Something They'll Always Remember**.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "presentation-strategy-worksheet",
+      "title": "Presentation Strategy Worksheet",
+      "area": "Drive",
+      "topic": "D5 Communicate Direction",
+      "origin": "Ole Tillmann",
+      "deepDive": false,
+      "description": "Die Grundlagen einer Präsentation klären mit dem Presentation Strategy Worksheet von Ole Tillmann (»Beyond the Obvious«), aus dem Drive Leadership Playbook. Nutze diesen Skill, bevor jemand mit der Vorbereitung einer Präsentation, Rede, Strategie-Kommunikation oder eines Pitches beginnt, wenn unklar ist, warum und vor wem präsentiert wird und was am Ende erreicht werden soll, oder als Struktur für die Denkzeit der 50-25-25 Rule. Führt durch die fünf Felder: Warum präsentierst du? Wer ist dein Publikum? Welchen Nutzen hat es? Welche Gegenargumente könnten kommen? Was ist dein konkretes Ziel?",
+      "desc": "Die Grundlagen einer Präsentation klären mit dem Presentation Strategy Worksheet von Ole Tillmann (»Beyond the Obvious«), aus dem Drive Leadership Playbook.",
+      "summary": "Bevor du mit der Vorbereitung einer Präsentation beginnst, brauchst du Klarheit über die Grundlagen. Ole Tillmann hat dafür ein einfaches Worksheet entwickelt. Er war Schauspieler und Moderator, hat über 350 Speaker für TEDx-Events gecoacht, an der D-School des Hasso-Plattner-Instituts gelehrt und im Axel Springer Plug and Play Accelerator Gründer:innen auf ihre Pitches vorbereitet. Seinen Ansatz beschreibt er in »Beyond the Obvious«.",
+      "files": [
+        "SKILL.md",
+        "templates/presentation-strategy-worksheet.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "core-message-future-scenario",
+      "title": "Core Message & Future Scenario",
+      "area": "Drive",
+      "topic": "D5 Communicate Direction",
+      "origin": "Ole Tillmann",
+      "deepDive": true,
+      "description": "Eine Botschaft auf einen Satz verdichten und als Weg von heute nach morgen erzählen, mit dem Core Message Worksheet und dem Future Scenario Worksheet (From, To, How) von Ole Tillmann (»Beyond the Obvious«), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand Strategie, Vision oder Veränderung kommunizieren will, eine Präsentation vor Geschäftsführung, Team oder Organisation vorbereitet, zu viele Botschaften hat oder die Kernaussage nicht auf den Punkt bekommt. Führt durch Objective (»Ich will …, weil …«), Core Message (»Da …, müssen wir …«), Iteration und Visualisierung sowie From, To und How.",
+      "desc": "Eine Botschaft auf einen Satz verdichten und als Weg von heute nach morgen erzählen, mit dem Core Message Worksheet und dem Future Scenario Worksheet (From, To, How) von Ole Tillmann (»Beyond the Obvious«), aus dem Drive Leadership Playbook.",
+      "summary": "Wer einen wirklich guten Vortrag gesehen hat, erinnert sich selten an die Folien. Was bleibt, ist meist ein einziger Satz. Ole Tillmann hat über Jahre mit Hunderten TEDx-Speakern daran gearbeitet: Eine Präsentation wirkt, wenn das Publikum sie auf einen Gedanken eindampfen und weitererzählen kann. Zwei Worksheets aus seinem Buch »Beyond the Obvious« bauen diesen Effekt absichtlich ein. Sie bilden ein Paar: Das eine verdichtet, das andere erzählt.",
+      "files": [
+        "SKILL.md",
+        "templates/core-message-worksheet.md",
+        "templates/future-scenario-worksheet.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "organisationsmap",
+      "title": "Organisationsmap",
+      "area": "Lead",
+      "topic": "L1 Design Your Organisation",
+      "origin": "Peter Merholz",
+      "deepDive": false,
+      "description": "Die fachliche Zusammensetzung einer Organisation sichtbar machen mit der Organisationsmap aus dem Drive Leadership Playbook, auf Basis der drei Ebenen Funktionen, Fachrichtungen und Spezialisierungen nach Peter Merholz (Org Design for Design Orgs). Nutze diesen Skill, wenn jemand eine neue Organisation oder ein neues Team aufbaut, skaliert und aus einer Funktion mehrere Fachrichtungen werden, unklar ist, welche Rolle als Nächstes besetzt werden soll, eine Restrukturierung vorbereitet oder die eigene Aufstellung gegen Strategie und Markt prüfen will. Startet bei Disziplinen, nicht bei Personen.",
+      "desc": "Die fachliche Zusammensetzung einer Organisation sichtbar machen mit der Organisationsmap aus dem Drive Leadership Playbook, auf Basis der drei Ebenen Funktionen, Fachrichtungen und Spezialisierungen nach Peter Merholz (Org Design for Design Orgs).",
+      "summary": "Die Organisationsmap ist ein Denkmodell, das die fachliche Zusammensetzung einer Organisation sichtbar macht. Sie besteht aus drei Ebenen:",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "faehigkeitenmatrix",
+      "title": "Fähigkeitenmatrix",
+      "area": "Lead",
+      "topic": "L1 Design Your Organisation",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Fähigkeiten (Capabilities) je Fachrichtung definieren und über Rubrics mit den Levels verbinden, mit der Fähigkeitenmatrix aus dem Drive Leadership Playbook, aufbauend auf Peter Merholz. Nutze diesen Skill, wenn jemand ein Career Framework oder Progression Framework aufbaut, klar machen will, was im Team konkret erwartet wird, Fähigkeiten in Craft, Strategie und Kollaboration ordnen, Rubrics von Developing bis Expert formulieren oder eine Grundlage für Assessment, Feedback, Job Description und Hiring Scorecard schaffen will.",
+      "desc": "Fähigkeiten (Capabilities) je Fachrichtung definieren und über Rubrics mit den Levels verbinden, mit der Fähigkeitenmatrix aus dem Drive Leadership Playbook, aufbauend auf Peter Merholz.",
+      "summary": "Steht fest, welche Funktionen und Fachrichtungen eine Organisation braucht, folgt die nächste Frage: Welche Fähigkeiten muss jede dieser Fachrichtungen mitbringen? Fähigkeiten sind die Grundbausteine jeder Karrierearchitektur. Peter Merholz nennt sie das »Atom«, auf dem alles aufbaut.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "career-track-levels",
+      "title": "Career Track & Levels",
+      "area": "Lead",
+      "topic": "L1 Design Your Organisation",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Karrierestufen und Karrierepfade definieren mit Career Track & Levels aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand ein Level-Framework oder Career Framework aufbaut, eine Dual Career Ladder mit Management-Pfad und Expert-Pfad (Individual Contributor) einführen, Levels über Funktionen hinweg vergleichbar machen, Levels mit Gehaltsbändern verknüpfen, Beförderungskriterien klären oder ein bestehendes Framework auf Wachstum prüfen will. Beschreibt Levels über fünf Dimensionen (Verantwortungsbereich, Wirkung, Eigenständigkeit, Komplexität, Fachtiefe).",
+      "desc": "Karrierestufen und Karrierepfade definieren mit Career Track & Levels aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Levels beschreiben die Karrierestufen einer Organisation, von Werkstudierenden bis zum Vorstand. Je nach Unternehmensgröße sind das sieben bis 13 Stufen. Levels werden über die gesamte Organisation definiert, nicht pro Team oder Funktion. So lassen sich die Stufen verschiedener Funktionen vergleichen: Ein Senior im Engineering und ein Senior im Vertrieb stehen auf demselben Level, auch wenn sich ihre fachlichen Anforderungen unterscheiden.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "werte-workshop",
+      "title": "Werte & Erwartungen: Werte-Workshop",
+      "area": "Lead",
+      "topic": "L1 Design Your Organisation",
+      "origin": "Dominik Kenzler; Workshop-Mechanik nach Matt Ström-Awn",
+      "deepDive": true,
+      "description": "Werte und Verhaltenserwartungen klären und im Team verankern, mit Werte & Erwartungen und dem Werte-Workshop aus dem Drive Leadership Playbook, Workshop-Mechanik nach Matt Ström-Awn. Nutze diesen Skill, wenn jemand die eigenen Prinzipien als Führungskraft schärfen, die echten Erwartungen der Geschäftsführung verstehen, Unternehmenswerte gegen die Realität prüfen, Firmenwerte definieren oder aktualisieren, mit Peers gemeinsame Werte klären oder mit dem Team festlegen will, wie bestehende Werte konkret gelebt werden. Übersetzt Werte in beobachtbares Verhalten und liefert eine zweitägige Workshop-Agenda.",
+      "desc": "Werte und Verhaltenserwartungen klären und im Team verankern, mit Werte & Erwartungen und dem Werte-Workshop aus dem Drive Leadership Playbook, Workshop-Mechanik nach Matt Ström-Awn.",
+      "summary": "Neben Fähigkeiten spielen beim Org Design Prinzipien und Eigenschaften eine Rolle, die keine Progression haben. Fähigkeiten lernt man schrittweise. Eigenschaften und Haltungen lassen sich zwar entwickeln, aber es gibt keine Stufen: Jemand arbeitet proaktiv oder nicht. Es gibt kein Beginner- oder Expert-Level für Proaktivität. Beispiele aus dem Buch: Self-Starter, High Agency (Hindernisse eigenständig aus dem Weg räumen, statt auf Erlaubnis zu warten), High Urgency (das Bewusstsein, dass Geschwindigkeit zählt und Themen nicht liegen bleiben dürfen).",
+      "files": [
+        "SKILL.md",
+        "templates/workshop-agenda.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "rollen",
+      "title": "Rollen",
+      "area": "Lead",
+      "topic": "L1 Design Your Organisation",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Rollen als Kombination aus Fachrichtung, Level und Fähigkeiten beschreiben, mit dem Baustein Rollen aus Design Your Organisation im Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand eine Rollenbeschreibung erstellen, Verantwortungsbereich und Scope einer Position klären, Erwartungen an eine Rolle festhalten, Rollen im Team dokumentieren oder die Grundlage für eine Job Description oder Hiring Scorecard legen will. Setzt voraus, dass Fachrichtung, Level und Fähigkeiten bekannt sind, und führt sie zu einer Rolle zusammen.",
+      "desc": "Rollen als Kombination aus Fachrichtung, Level und Fähigkeiten beschreiben, mit dem Baustein Rollen aus Design Your Organisation im Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Rollen sind die Kombination aus Fachrichtung, Level und Fähigkeiten. Sie beschreiben eine spezifische Position im Unternehmen: einen klaren Verantwortungsbereich, einen definierten Scope, konkrete Erwartungen und die dazugehörigen Fähigkeiten. In Abb. 4.1 ist die Rolle die Synthese der anderen Bausteine aus Design Your Organisation.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "assessment-prozess",
+      "title": "Assessment-Prozess",
+      "area": "Lead",
+      "topic": "L2 Know Your Team",
+      "origin": "Dominik Kenzler, mit Bezug auf Michael Watkins",
+      "deepDive": false,
+      "description": "Ein ehrliches Bild vom eigenen Team gewinnen mit dem Assessment-Prozess aus dem Drive Leadership Playbook von Dominik Kenzler, mit Bezug auf Michael Watkins (The First 90 Days). Nutze diesen Skill, wenn jemand ein neues Team übernimmt, in einem Unternehmen startet, vor einer strategischen Neuausrichtung steht oder regelmäßig prüfen will, ob das Team zu den Anforderungen passt. Führt vom Zielbild (Set-up for Success, Ist gegen Soll) über Beobachten und Shadowing, 1:1-Gespräche, Peer-Interviews und Selbsteinschätzung bis zum Abgleich mit Fähigkeitenmatrix und Zielbild, pro Person, mit dem Ziel, das Team-Assessment in den ersten 30 Tagen abzuschließen.",
+      "desc": "Ein ehrliches Bild vom eigenen Team gewinnen mit dem Assessment-Prozess aus dem Drive Leadership Playbook von Dominik Kenzler, mit Bezug auf Michael Watkins (The First 90 Days).",
+      "summary": "Bevor du Strategien umsetzt, Prozesse veränderst oder neue Ziele setzt, musst du verstehen, mit wem du arbeitest. Welche Fähigkeiten sind im Team vorhanden? Wo liegen Stärken, wo Lücken? Sind die Mitarbeitenden auf den richtigen Positionen? Und was braucht das Team, um die Strategie umzusetzen?",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "watkins-assessment",
+      "title": "Watkins Assessment Framework",
+      "area": "Lead",
+      "topic": "L2 Know Your Team",
+      "origin": "Michael Watkins",
+      "deepDive": false,
+      "description": "Teammitglieder bewerten und die nächste Handlung pro Person ableiten mit dem Watkins Assessment Framework nach Michael Watkins (The First 90 Days), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand nach einem Teamwechsel oder einer Teamübernahme jede Person einordnen, Bewertungskriterien (Competence, Judgment, Energy, Focus, Relationships, Trust) gewichten, mit 100 Punkten Prioritäten setzen und über den Entscheidungsbaum zu Keep in Place, Keep and Develop, Move to Another Position, Replace (Low oder High Priority) oder Observe for a While kommen will. Ergebnis ist ein Arbeitsdokument für das Gespräch mit der vorgesetzten Person.",
+      "desc": "Teammitglieder bewerten und die nächste Handlung pro Person ableiten mit dem Watkins Assessment Framework nach Michael Watkins (The First 90 Days), aus dem Drive Leadership Playbook.",
+      "summary": "Michael Watkins hat in »The First 90 Days« ein Assessment-Framework entwickelt, das Dominik Kenzler bei jedem Teamwechsel nutzt. Es ist eines der wenigen Frameworks, die Bewertung und Entscheidung strukturieren. Die meisten Tools helfen beim Messen, Watkins hilft beim Entscheiden.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "skill-will-matrix",
+      "title": "Skill-Will-Matrix",
+      "area": "Lead",
+      "topic": "L2 Know Your Team",
+      "origin": "Max Landsberg",
+      "deepDive": false,
+      "description": "Teammitglieder nach Skill und Will einordnen und daraus den Führungsstil pro Person ableiten, mit der Skill-Will-Matrix nach Max Landsberg in der angepassten Fassung aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ein neues Team übernimmt und einen schnellen Überblick braucht, Performance-Gespräche vorbereitet, prüfen will, ob der Mix aus Erfahrung und Fähigkeiten im Team stimmt, oder überlegt, ob jemand anleiten, delegieren, begeistern oder anweisen braucht. Skill umfasst Fähigkeiten und handwerkliches Verhalten, Will umfasst Haltung, Bereitschaft und Coachability.",
+      "desc": "Teammitglieder nach Skill und Will einordnen und daraus den Führungsstil pro Person ableiten, mit der Skill-Will-Matrix nach Max Landsberg in der angepassten Fassung aus dem Drive Leadership Playbook.",
+      "summary": "Die Skill-Will-Matrix ist ein sehr populäres Assessment-Tool. Jede Person im Team wird auf zwei Achsen eingeordnet, Skill und Will. Daraus ergeben sich vier Quadranten, jeder mit einer anderen Handlungsempfehlung.",
+      "files": [
+        "SKILL.md",
+        "templates/skill-will-matrix.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "9-box-grid",
+      "title": "9-Box Grid",
+      "area": "Lead",
+      "topic": "L2 Know Your Team",
+      "origin": "McKinsey und General Electric",
+      "deepDive": true,
+      "description": "Mitarbeitende nach Performance und Potenzial einordnen und im Leadership-Team kalibrieren, mit dem 9-Box Grid nach McKinsey und General Electric, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn HR, Geschäftsführung oder die vorgesetzte Person ein 9-Grid verlangt, eine Kalibrierungsrunde mit anderen Führungskräften ansteht, Nachfolgeplanung, Performance Management, eine Reorg oder Restrukturierung vorbereitet wird. Führt in zwei Stufen durch das Grid (allein erstellen und gegen dich selbst kalibrieren, dann im Leadership-Team besprechen und challengen), mit Fokus auf den Bias der Potenzialachse.",
+      "desc": "Mitarbeitende nach Performance und Potenzial einordnen und im Leadership-Team kalibrieren, mit dem 9-Box Grid nach McKinsey und General Electric, aus dem Drive Leadership Playbook.",
+      "summary": "Das 9-Box Grid ordnet jede Person auf zwei Achsen ein, Performance und Potenzial, und ergibt neun Felder. Es wurde ursprünglich von McKinsey für General Electric entwickelt und ist seitdem ein Industriestandard, den viele kennen und erwarten. In größeren Organisationen ist es wahrscheinlich das bekannteste Talent-Management-Tool.",
+      "files": [
+        "SKILL.md",
+        "templates/9-box-grid.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "job-description",
+      "title": "Job Description",
+      "area": "Lead",
+      "topic": "L3 Hire & Let Go",
+      "origin": "Dominik Kenzler, Prinzipien nach Peter Merholz",
+      "deepDive": true,
+      "description": "Eine Job Description schreiben, die die richtigen Talente anzieht und unpassende sich selbst aussortieren lässt, aus dem Drive Leadership Playbook (Dominik Kenzler, Prinzipien nach Peter Merholz). Nutze diesen Skill, wenn jemand eine Stellenanzeige oder Rollenbeschreibung für externe Bewerbende formulieren, eine bestehende Job Description schärfen oder kürzen, eine Rolle vor dem Hiring klären oder prüfen will, ob eine Anzeige zu generisch, zu lang oder zu überladen ist. Führt durch Titel und sechs Bereiche (Einleitung, Scope und Verantwortungsbereich, Fähigkeiten und Qualifikationen, Arbeitsweise und Haltung, Umfeld und Kontext, Was wir bieten).",
+      "desc": "Eine Job Description schreiben, die die richtigen Talente anzieht und unpassende sich selbst aussortieren lässt, aus dem Drive Leadership Playbook (Dominik Kenzler, Prinzipien nach Peter Merholz).",
+      "summary": "Die Job Description übersetzt deine interne Rollenbeschreibung in ein externes Dokument. Was du in Design Your Organisation an Rollen, Fähigkeiten und Verhaltenserwartungen definiert hast, wird hier zum Werkzeug, um die richtigen Menschen anzusprechen. Sie erfindet die Rolle nicht neu.",
+      "files": [
+        "SKILL.md",
+        "templates/job-description.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "hiring-scorecard",
+      "title": "Hiring-Prozess und Scorecard",
+      "area": "Lead",
+      "topic": "L3 Hire & Let Go",
+      "origin": "Dominik Kenzler; Entscheidungsbaum nach Claire Hughes Johnson",
+      "deepDive": false,
+      "description": "Einen standardisierten Hiring-Prozess mit Scorecard aufsetzen, aus dem Drive Leadership Playbook (Dominik Kenzler, Entscheidungsbaum Internal vs. External Hire nach Claire Hughes Johnson). Nutze diesen Skill, wenn jemand eine Stelle besetzen will und prüfen muss, ob intern oder extern gesucht wird, einen Interviewprozess plant, das Hiring-Team briefen will, eine Scorecard mit schwachen, guten und starken Antworten erstellen, Referenz-Checks vorbereiten oder nach den Interviews eine Einstellungsentscheidung strukturieren will. Führt durch Internal Moves, Prozess in sechs Schritten (Screening, Fachliches und Cultural Fit, Fachlicher Deep Dive, Collaboration-Interview, Referenz-Checks, Closing Call) und die Entscheidung anhand der Scorecard.",
+      "desc": "Einen standardisierten Hiring-Prozess mit Scorecard aufsetzen, aus dem Drive Leadership Playbook (Dominik Kenzler, Entscheidungsbaum Internal vs. External Hire nach Claire Hughes Johnson).",
+      "summary": "Ob du die richtige Person findest, entscheidet sich nicht im Interview, sondern davor. Bevor du die ersten Interviews führst, brauchst du zwei Dinge: einen klaren Prozess und eine Scorecard. Der Prozess definiert, wer wann welche Themen prüft. Die Scorecard definiert, wonach du bewertest, bevor du die Bewerbenden kennenlernst. Sie baut direkt auf den Fähigkeiten-Rubrics und den Verhaltenserwartungen aus Design Your Organisation auf.",
+      "files": [
+        "SKILL.md",
+        "templates/hiring-prozess.md",
+        "templates/scorecard.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "work-trial",
+      "title": "Probearbeit / Work Trial",
+      "area": "Lead",
+      "topic": "L3 Hire & Let Go",
+      "origin": "Dominik Kenzler, nach der Praxis von Anton Osika (Lovable)",
+      "deepDive": false,
+      "description": "Eine Probearbeit (Work Trial) im Hiring planen, durchführen und auswerten, aus dem Drive Leadership Playbook von Dominik Kenzler (Praxis nach Anton Osika, Lovable). Nutze diesen Skill, wenn jemand Bewerbende einen oder mehrere Tage im Team an echten Aufgaben mitarbeiten lassen will, eine Probearbeit statt einer Case Study oder eines Take-Home Assignments aufsetzen, eine passende Aufgabe aus dem Backlog auswählen, den Rahmen für Bewerbende formulieren oder das Debrief mit dem Team strukturieren will. Besonders für Senior-Positionen und Rollen, in denen Zusammenarbeit im Team entscheidend ist. Führt durch die drei Phasen Briefing, Zusammenarbeit, Debrief.",
+      "desc": "Eine Probearbeit (Work Trial) im Hiring planen, durchführen und auswerten, aus dem Drive Leadership Playbook von Dominik Kenzler (Praxis nach Anton Osika, Lovable).",
+      "summary": "Interviews zeigen, wie jemand über Arbeit spricht. Probearbeit zeigt, wie jemand arbeitet. Die Person arbeitet einen oder mehrere Tage im Team mit, an echten Aufgaben aus dem aktuellen Backlog. Du siehst, wie sie mit dem Team interagiert, wie sie mit Ambiguität umgeht, wie sie Fragen stellt und wie sie tatsächlich arbeitet.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "letting-go",
+      "title": "Letting Go",
+      "area": "Lead",
+      "topic": "L3 Hire & Let Go",
+      "origin": "Dominik Kenzler; Prüffragen nach Kim Scott, Muster nach Claire Hughes Johnson",
+      "deepDive": false,
+      "description": "Eine Trennung von einem Teammitglied prüfen, vorbereiten und würdevoll durchführen, aus dem Drive Leadership Playbook (Dominik Kenzler, Prüffragen nach Kim Scott, Muster nach Claire Hughes Johnson). Nutze diesen Skill, wenn jemand überlegt, sich von einer Person im Team zu trennen, eine Entscheidung immer wieder aufschiebt, ein Trennungsgespräch vorbereiten, die eigene Botschaft formulieren, das Gespräch mit dem People-Team abstimmen oder das Team nach einer Trennung informieren will. Führt durch drei Prüffragen vor der Entscheidung, das kurze Trennungsgespräch mit Klarheit, Kontext und Würde, und die Kommunikation danach.",
+      "desc": "Eine Trennung von einem Teammitglied prüfen, vorbereiten und würdevoll durchführen, aus dem Drive Leadership Playbook (Dominik Kenzler, Prüffragen nach Kim Scott, Muster nach Claire Hughes Johnson).",
+      "summary": "Hiring ist nur die eine Seite. Die andere ist die Bereitschaft, sich von Menschen zu trennen, wenn es nicht passt. Laut Molly Graham liegen die besten Hiring-Expertinnen und -Experten weltweit in etwa der Hälfte der Fälle richtig. Sich von einem Teammitglied zu trennen, ist das Schwierigste, was ein Leader lernen muss. Am Ende geht es darum, das Richtige für das Unternehmen und für alle anderen im Team zu tun.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "30-60-90-day-plan",
+      "title": "30/60/90-Day-Plan",
+      "area": "Lead",
+      "topic": "L4 Set the Stage",
+      "origin": "Dominik Kenzler; Break-even Point nach Michael Watkins",
+      "deepDive": false,
+      "description": "Einen 30/60/90-Day-Plan für das Onboarding neuer Mitarbeitender erstellen und abgleichen, aus dem Drive Leadership Playbook von Dominik Kenzler (mit Bezug auf Michael Watkins, The First 90 Days). Nutze diesen Skill, wenn eine Führungskraft eine neue Person im Team onboardet, Erwartungen für die ersten drei Monate formulieren, einen Plan für weniger erfahrene Mitarbeitende vorbereiten oder den selbst erarbeiteten Plan einer erfahrenen Person mit den eigenen Erwartungen abgleichen will. Führt durch die Phasen Verstehen und Vernetzen, Beitragen, Wirken. Nicht für die eigene Transition als Führungskraft, dafür gibt es den 90-Day-Plan aus YOURSELF.",
+      "desc": "Einen 30/60/90-Day-Plan für das Onboarding neuer Mitarbeitender erstellen und abgleichen, aus dem Drive Leadership Playbook von Dominik Kenzler (mit Bezug auf Michael Watkins, The First 90 Days).",
+      "summary": "Der 30/60/90-Day-Plan ist eines der etabliertesten Frameworks im Onboarding neuer Mitarbeitender. Er strukturiert die ersten drei Monate in drei Phasen mit klaren Schwerpunkten: Verstehen, Beitragen, Wirken. Nicht als starres Korsett, sondern als gemeinsamer Orientierungsrahmen für dich und die neue Person.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "team-charter",
+      "title": "Team Charter",
+      "area": "Lead",
+      "topic": "L4 Set the Stage",
+      "origin": "Peter Merholz",
+      "deepDive": true,
+      "description": "Mit dem Team eine Team Charter erarbeiten, nach dem Workshop-Prozess von Peter Merholz, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn ein Team neu zusammengestellt wird, eine neue Führungskraft ein Team übernimmt, ein gewachsenes Team merkt, dass das gemeinsame Verständnis nicht mehr stimmt, oder wenn jemand Purpose, Capabilities, Werte, interne und externe Normen und Measures of Success eines Teams gemeinsam festhalten will. Führt durch vier moderierte Sessions (remote oder als Tagesworkshop), die Synthese zum fertigen Dokument und die nächsten Schritte, damit die Charter im Alltag wirkt.",
+      "desc": "Mit dem Team eine Team Charter erarbeiten, nach dem Workshop-Prozess von Peter Merholz, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Eine Team Charter ist ein gemeinsam erarbeitetes, knappes Dokument (typischerweise rund sechs Folien), das beschreibt, wer das Team ist, wofür es steht und wie es arbeitet. Kein Organigramm, keine Rollenbeschreibung, sondern eine ehrliche Antwort auf die Fragen: Warum existiert dieses Team? Was sind unsere Werte? Wie arbeiten wir zusammen, und wie arbeiten wir mit anderen? Intern klärt sie, was Teammitglieder voneinander erwarten dürfen, extern, was der Rest der Organisation vom Team erwarten kann.",
+      "files": [
+        "SKILL.md",
+        "templates/team-charter.md",
+        "templates/workshop-agenda.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "one-on-one-skip-level",
+      "title": "1:1 und Skip Level",
+      "area": "Lead",
+      "topic": "L4 Set the Stage",
+      "origin": "Dominik Kenzler, mit Impulsen von Kim Scott und Julie Zhuo",
+      "deepDive": false,
+      "description": "Gute 1:1s und Skip Levels mit Mitarbeitenden aufsetzen und führen, aus dem Drive Leadership Playbook von Dominik Kenzler (mit Impulsen von Kim Scott und Julie Zhuo). Nutze diesen Skill, wenn eine Führungskraft 1:1s mit Direct Reports einführen oder verbessern will, merkt, dass 1:1s zu Statusmeetings geworden sind, Frequenz und Format festlegen, ein einzelnes 1:1 vorbereiten, mehr ehrliches Feedback bekommen oder Skip Levels mit den Mitarbeitenden ihrer Führungskräfte einführen will. Führt durch Agenda-Eigentum, die drei Ebenen eines guten 1:1 (Prioritäten, Entwicklung, Feedback in beide Richtungen), Warnsignale, Frequenz und den Zweck von Skip Levels.",
+      "desc": "Gute 1:1s und Skip Levels mit Mitarbeitenden aufsetzen und führen, aus dem Drive Leadership Playbook von Dominik Kenzler (mit Impulsen von Kim Scott und Julie Zhuo).",
+      "summary": "1:1 sind regelmäßige Einzelgespräche zwischen dir und deinen Direct Reports. Sie sind das wichtigste Führungsinstrument, über das du verfügst. Nicht, weil sie regelmäßig stattfinden, sondern weil sie ein zentraler Ort sind, an dem echte Entwicklung passiert und der ausschließlich deinen Mitarbeitenden gehört. Das Ziel ist kein angenehmer Austausch, sondern ein ehrliches Gespräch über Entwicklung, Ziele und darüber, was du als Lead tun kannst, um zu unterstützen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "weekly-staff-meeting",
+      "title": "Weekly Staff Meeting",
+      "area": "Lead",
+      "topic": "L4 Set the Stage",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Ein Weekly Staff Meeting mit den Direct Reports aufsetzen und führen, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn eine Führungskraft ein wöchentliches Führungsteam-Meeting einführen, ein bestehendes Staff Meeting straffen, eine Agenda mit Pre-Read vorbereiten, Aufgaben und Verantwortung klar verteilen oder ein Meeting reparieren will, das regelmäßig überläuft, bilaterale Themen verhandelt oder keinen klaren Output hat. Führt durch Timing, laufendes Themen-Dokument, Pre-Read, Ablauf, Delegation und Zusammenfassung mit Entscheidungen und Wer macht was bis wann.",
+      "desc": "Ein Weekly Staff Meeting mit den Direct Reports aufsetzen und führen, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Das Weekly Staff Meeting ist dein wichtigstes Format für den Rhythmus deiner Direct Reports. Es schafft Alignment, gibt der Woche eine klare Richtung und hält alle auf dem gleichen Stand. Anders als im 1:1 kommt ein Großteil der Agenda von dir.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "all-hands",
+      "title": "All-Hands, Onsite, Offsite",
+      "area": "Lead",
+      "topic": "L4 Set the Stage",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "All-Hands, Onsites und Offsites planen und als Führungsinstrument nutzen, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn eine Führungskraft ein All-Hands für den eigenen Bereich aufsetzen oder vorbereiten, den Beitrag des Teams im Company All-Hands sichtbar machen, Teammitglieder auf die Bühne holen, ein Onsite am eigenen Standort oder ein Offsite an einem neuen Ort planen oder klären will, welches Ziel so ein Format haben soll. Führt durch die drei Teile eines All-Hands (Richtung und Kontext, Fortschritt und Erfolge, offene Fragen), Rhythmus und Dauer sowie Zielklärung, Umfang und Organisation von Onsite und Offsite.",
+      "desc": "All-Hands, Onsites und Offsites planen und als Führungsinstrument nutzen, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "All-Hands gibt es auf zwei Ebenen: auf Unternehmensebene, geführt von Geschäftsführung oder Senior Leadership, und auf Department- oder Teamebene, wo du das Format selbst gestaltest. Beide aktiv zu bespielen und als wesentlichen Teil deiner Führungsarbeit zu sehen, nicht als Pflichttermin am Rande, ist eine der unterschätzten Aufgaben als Lead.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "sbi-feedback",
+      "title": "SBI-Feedback",
+      "area": "Lead",
+      "topic": "L5 Grow Your People",
+      "origin": "Center for Creative Leadership",
+      "deepDive": false,
+      "description": "Feedback strukturiert formulieren mit SBI (Situation, Behavior, Impact) vom Center for Creative Leadership, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ein Feedbackgespräch vorbereiten, kritisches oder positives Feedback an Mitarbeitende, Kolleg:innen oder die eigene Führungskraft geben, eine wiederkehrende Störung (etwa Unterbrechen in Meetings) ansprechen oder vages Lob in präzises Feedback übersetzen will. Führt durch die drei Elemente, trennt Verhalten von Interpretation und endet mit einer offenen Frage an das Gegenüber.",
+      "desc": "Feedback strukturiert formulieren mit SBI (Situation, Behavior, Impact) vom Center for Creative Leadership, aus dem Drive Leadership Playbook.",
+      "summary": "SBI steht für Situation, Behavior, Impact. Es ist eines der klarsten und praktisch anwendbarsten Frameworks für strukturiertes Feedback. Es hilft, Feedback präzise, nachvollziehbar und ohne persönliche Bewertung zu formulieren.",
+      "files": [
+        "SKILL.md",
+        "templates/sbi-vorbereitung.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "radical-candor",
+      "title": "Radical Candor",
+      "area": "Lead",
+      "topic": "L5 Grow Your People",
+      "origin": "Kim Scott",
+      "deepDive": true,
+      "description": "Feedback geben und eine Feedbackkultur aufbauen mit Radical Candor von Kim Scott, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand einschätzen will, wo ein Feedback landet (Radical Candor, Ruinous Empathy, Obnoxious Aggression, Manipulative Insincerity), sich vor unangenehmer Kritik drückt, Feedback im Team einführen, Feedback von Mitarbeitenden erbitten oder eine offene Feedbackkultur ohne Flurfunk etablieren will. Führt durch die zwei Dimensionen Care personally und Challenge directly und durch den Roll-out in sechs Schritten.",
+      "desc": "Feedback geben und eine Feedbackkultur aufbauen mit Radical Candor von Kim Scott, aus dem Drive Leadership Playbook.",
+      "summary": "Radical Candor ist ein Führungs- und Feedback-Framework von Kim Scott, entwickelt aus ihrer Erfahrung bei Google, Apple und anderen Technologieunternehmen. Der Kern lässt sich in zwei Dimensionen beschreiben: Care personally (persönlich nahe sein) und Challenge directly (direkt herausfordern). Gutes Feedback und gute Führung entstehen nur im Schnittpunkt beider Dimensionen. Deine Mitarbeitenden müssen spüren, dass dir die Menschen hinter der Arbeit wichtig sind, dass es dein Ziel ist, sie besser zu machen, und dass der Weg dorthin das offene, klare Gespräch über die Qualität ihrer Arbeit ist.",
+      "files": [
+        "SKILL.md",
+        "templates/roll-out-plan.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "ownership-ladder",
+      "title": "Ownership Ladder",
+      "area": "Lead",
+      "topic": "L5 Grow Your People",
+      "origin": "Managementliteratur, im Buch ohne namentliche Urheber:in; Barrels und Ammunition nach Keith Rabois",
+      "deepDive": false,
+      "description": "Verantwortungsübernahme einschätzen und entwickeln mit der Ownership Ladder, aus dem Drive Leadership Playbook, inklusive Barrels und Ammunition nach Keith Rabois. Nutze diesen Skill, wenn jemand einschätzen will, wie viel Ownership eine Person im Team typischerweise übernimmt, ein Entwicklungsgespräch über Verantwortung und Wachstum vorbereiten, Mitarbeitende von Kritik und Beschwerden hin zu eigener Initiative entwickeln oder die Barrels im Team erkennen und fördern will. Führt durch die sieben Stufen von Urteilen bis Ownen.",
+      "desc": "Verantwortungsübernahme einschätzen und entwickeln mit der Ownership Ladder, aus dem Drive Leadership Playbook, inklusive Barrels und Ammunition nach Keith Rabois.",
+      "summary": "Die Ownership Ladder beschreibt die verschiedenen Grade, mit denen Menschen Verantwortung übernehmen. Sie hat sieben Stufen, von passivem Urteilen bis zu aktiver, vollständiger Ownership:",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "difficult-conversations",
+      "title": "Difficult Conversations",
+      "area": "Lead",
+      "topic": "L5 Grow Your People",
+      "origin": "Douglas Stone, Bruce Patton und Sheila Heen (Harvard Negotiation Project)",
+      "deepDive": false,
+      "description": "Schwierige Gespräche vorbereiten und führen mit Difficult Conversations von Douglas Stone, Bruce Patton und Sheila Heen (Harvard Negotiation Project), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ein Konfliktgespräch, ein Gespräch über mangelnde Leistung oder Eigeninitiative, eine Auseinandersetzung mit Kolleg:innen oder ein anderes Gespräch vorbereiten will, das sich anfühlt, als könne es nicht gut ausgehen. Führt durch die drei Gespräche (Was ist passiert, Gefühle, Identität), den Wechsel zum Lerngespräch, den Einstieg mit der Third Story, zirkuläre Fragen und Reframing.",
+      "desc": "Schwierige Gespräche vorbereiten und führen mit Difficult Conversations von Douglas Stone, Bruce Patton und Sheila Heen (Harvard Negotiation Project), aus dem Drive Leadership Playbook.",
+      "summary": "Difficult Conversations ist ein Framework aus dem Harvard Negotiation Project. Es basiert auf jahrelanger Forschung zu Konflikten und schwierigen Gesprächen und bietet einen strukturierten Ansatz für Gespräche, die sich anfühlen, als würden sie nie gut ausgehen.",
+      "files": [
+        "SKILL.md",
+        "templates/gespraechsvorbereitung.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "delegation-levels",
+      "title": "Delegation Levels",
+      "area": "Lead",
+      "topic": "L5 Grow Your People",
+      "origin": "Jurgen Appelo (Management 3.0), zurückgehend auf Paul Hersey und Ken Blanchard",
+      "deepDive": false,
+      "description": "Bewusst delegieren mit den sieben Delegation Levels (Tell, Sell, Consult, Agree, Advise, Inquire, Delegate) nach Jurgen Appelo (Management 3.0), zurückgehend auf Paul Hersey und Ken Blanchard, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand Aufgaben oder Entscheidungen an Mitarbeitende oder ein Team übergeben, Missverständnisse darüber klären will, wer entscheidet, Micromanagement vermeiden oder je nach Seniorität und Aufgabe den passenden Grad an Freiheit festlegen will. Führt zur expliziten Benennung der Delegationsstufe pro Entscheidung.",
+      "desc": "Bewusst delegieren mit den sieben Delegation Levels (Tell, Sell, Consult, Agree, Advise, Inquire, Delegate) nach Jurgen Appelo (Management 3.0), zurückgehend auf Paul Hersey und Ken Blanchard, aus dem Drive Leadership Playbook.",
+      "summary": "»Sag den Leuten nicht, wie sie die Dinge tun sollen. Sag ihnen, was zu tun ist, und lasse sie dich mit ihren Ergebnissen überraschen.« Mit diesem Satz brachte General George S. Patton auf den Punkt, worum es bei Delegation geht: nicht Kontrolle aufgeben, sondern Verantwortung übertragen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "okrs",
+      "title": "OKRs",
+      "area": "Ship",
+      "topic": "S1 Set Goals (auch DRIVE D3 Set Strategic Goals)",
+      "origin": "Andy Grove (Intel), populär gemacht durch John Doerr (Google)",
+      "deepDive": true,
+      "description": "Ziele setzen mit OKRs (Objectives and Key Results, Andy Grove bei Intel, durch John Doerr bei Google populär), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand Team- oder Bereichsziele formulieren, Company Objectives in Team-OKRs übersetzen (kaskadieren), bestehende OKRs prüfen, Key Results schärfen, den OKR-Zyklus mit Check-ins, Halbzeit und Scoring aufsetzen oder OKR-Theater beenden will. Führt vom Objective über outcome-basierte Key Results bis zum Betrieb im Operating Rhythm.",
+      "desc": "Ziele setzen mit OKRs (Objectives and Key Results, Andy Grove bei Intel, durch John Doerr bei Google populär), aus dem Drive Leadership Playbook.",
+      "summary": "Objectives and Key Results sind das bekannteste Framework für Zielsetzung in der Tech-Welt. Ein **Objective** beschreibt, was erreicht werden soll: qualitativ, inspirierend, ambitioniert. **Key Results** zeigen, woran man misst, ob das Objective erreicht wurde: quantitativ, spezifisch, zeitgebunden.",
+      "files": [
+        "SKILL.md",
+        "templates/okr-zyklus.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "commitment-ceremony",
+      "title": "Commitment Ceremony",
+      "area": "Ship",
+      "topic": "S1 Set Goals",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Commitment Ceremony aus dem Drive Leadership Playbook von Dominik Kenzler: der formale Abschluss der Planungsphase, in dem Teams ihre Objectives oder OKRs vorstellen, die Führungskraft sie challengt und das Team explizit committet. Nutze diesen Skill, wenn jemand eine Quartalsplanung abschließen, eine Commitment- oder OKR-Runde vorbereiten oder moderieren, Ziele verbindlich machen, Teamziele challengen oder einen Cut-off zwischen Must-do-Commitments und optionalen Themen einführen will. Liefert Ablauf, Fragenkatalog und Ergebnisprotokoll.",
+      "desc": "Commitment Ceremony aus dem Drive Leadership Playbook von Dominik Kenzler: der formale Abschluss der Planungsphase, in dem Teams ihre Objectives oder OKRs vorstellen, die Führungskraft sie challengt und das Team explizit committet.",
+      "summary": "Die Commitment Ceremony ist der formale Abschluss der Planungsphase. Die Teams haben ihre Objectives oder Ziele in einem anderen Format formuliert, die Führungskraft hat ihre eigenen Ziele aufgeschrieben. Jetzt folgt der gegenseitige Austausch und das explizite Commitment.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "omtm",
+      "title": "OMTM (One Metric That Matters)",
+      "area": "Ship",
+      "topic": "S1 Set Goals",
+      "origin": "Alistair Croll und Benjamin Yoskovitz (Lean Analytics)",
+      "deepDive": false,
+      "description": "OMTM (One Metric That Matters) aus dem Lean-Analytics-Ansatz von Alistair Croll und Benjamin Yoskovitz, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand für ein Team oder eine Phase die eine wichtigste Kennzahl finden, den Fokus für ein Quartal auf einen Indikator legen, eine bestehende Metrik prüfen (Vanity Metric oder Actionable Metric?) oder OMTM von der North Star Metric abgrenzen will. Prüft Kandidaten gegen vier Eigenschaften: messbar, beeinflussbar, relevant, fokussierend.",
+      "desc": "OMTM (One Metric That Matters) aus dem Lean-Analytics-Ansatz von Alistair Croll und Benjamin Yoskovitz, aus dem Drive Leadership Playbook.",
+      "summary": "Zu jedem Zeitpunkt gibt es eine Metrik, die wichtiger ist als alle anderen. Wer diese Metrik verbessert, macht das Unternehmen oder das Team stärker. OMTM ist kein dauerhaftes Ziel, sondern ein Fokusinstrument für eine bestimmte Phase. Was heute die wichtigste Metrik ist, kann in sechs Monaten nicht mehr relevant sein, weil das Problem gelöst ist oder sich die strategische Priorität verschoben hat.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "weekly-priorities",
+      "title": "Weekly Priorities",
+      "area": "Ship",
+      "topic": "S1 Set Goals",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Weekly Priorities aus dem Drive Leadership Playbook von Dominik Kenzler: das Bindeglied zwischen quartalsweisen OKRs und dem Alltag. Jede Person oder jedes Team legt montags drei bis fünf Prioritäten für die Woche fest und reflektiert am Ende der Woche. Nutze diesen Skill, wenn jemand die eigene Woche oder die des Teams planen, Quartalsziele in konkrete Wochenprioritäten übersetzen, ein kurzes Async-Update formulieren, Dringendes von Wichtigem trennen oder eine zu lange To-do-Liste auf das Wesentliche reduzieren will.",
+      "desc": "Weekly Priorities aus dem Drive Leadership Playbook von Dominik Kenzler: das Bindeglied zwischen quartalsweisen OKRs und dem Alltag. Jede Person oder jedes Team legt montags drei bis fünf Prioritäten für die Woche fest und reflektiert am Ende der Woche.",
+      "summary": "Weekly Priorities beantworten die Frage: Was ist diese Woche wirklich wichtig? Nicht, was ist dringend, sondern, was bewegt uns am meisten in Richtung unserer Ziele.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "goal-review",
+      "title": "Goal Review",
+      "area": "Ship",
+      "topic": "S1 Set Goals",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Goal Review aus dem Drive Leadership Playbook von Dominik Kenzler: der Abschluss eines Planungszyklus als Accountability-Session. Commitments werden bewertet, Abweichungen erklärt und Konsequenzen für die nächste Planung gezogen. Nutze diesen Skill, wenn jemand das Ende eines Quartals oder Zyklus auswerten, OKRs oder Key Results rückblickend bewerten, einen Quartalsrückblick vorbereiten oder moderieren, Ursachen für verfehlte Ziele finden oder aus einer Rechtfertigungsrunde eine Analyserunde machen will. Liefert Vorbereitung, 60-Minuten-Ablauf und Review-Dokument.",
+      "desc": "Goal Review aus dem Drive Leadership Playbook von Dominik Kenzler: der Abschluss eines Planungszyklus als Accountability-Session. Commitments werden bewertet, Abweichungen erklärt und Konsequenzen für die nächste Planung gezogen.",
+      "summary": "Der Goal Review ist der Abschluss eines Planungszyklus. Er beantwortet vier Fragen: Was haben wir erreicht? Was nicht? Warum nicht? Und lag der Fehler in der Planung, in ungeplanter Arbeit, in der Discovery oder woanders?",
+      "files": [
+        "SKILL.md",
+        "templates/goal-review.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "ice-rice-scoring",
+      "title": "ICE/RICE Scoring",
+      "area": "Ship",
+      "topic": "S2 Plan & Prioritize",
+      "origin": "ICE nach Sean Ellis, RICE nach Sean McBride (Intercom)",
+      "deepDive": false,
+      "description": "Priorisieren mit ICE und RICE Scoring aus dem Drive Leadership Playbook. ICE (Impact, Confidence, Ease) nach Sean Ellis, RICE (Reach, Impact, Confidence, Effort) nach Sean McBride bei Intercom. Nutze diesen Skill, wenn jemand Ideen, Features oder Initiativen strukturiert bewerten und ordnen, einen Backlog priorisieren, eine Priorisierungsrunde mit dem Team vorbereiten, Bauchgefühl und politischen Druck durch eine gemeinsame Sprache ersetzen oder Scores als Ausgangspunkt für ein Gespräch über Annahmen nutzen will.",
+      "desc": "Priorisieren mit ICE und RICE Scoring aus dem Drive Leadership Playbook. ICE (Impact, Confidence, Ease) nach Sean Ellis, RICE (Reach, Impact, Confidence, Effort) nach Sean McBride bei Intercom.",
+      "summary": "ICE und RICE sind Priorisierungsframeworks, die Ideen, Features oder Initiativen anhand einer strukturierten Bewertung ordnen. Statt nach Bauchgefühl oder politischem Druck zu priorisieren, werden Faktoren bewertet und zu einem Score kombiniert.",
+      "files": [
+        "SKILL.md",
+        "templates/scoring-tabelle.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "shape-up",
+      "title": "Shape Up",
+      "area": "Ship",
+      "topic": "S2 Plan & Prioritize",
+      "origin": "Ryan Singer (Basecamp, 37signals)",
+      "deepDive": true,
+      "description": "Planen mit Shape Up von Ryan Singer (Basecamp, 37signals), aus dem Drive Leadership Playbook. Die Zeit wird fixiert, der Scope angepasst. Nutze diesen Skill, wenn jemand ein Vorhaben mit festem Zeitrahmen und variablem Umfang planen, ein Problem shapen, einen Pitch schreiben (Problem, Appetite, Solution, Rabbit Holes, No-gos), einen Betting-Prozess aufsetzen, Scopes bilden, Fortschritt mit dem Hill Chart statt in Prozent zeigen, einen Circuit Breaker einführen oder endlose Backlogs und reißende Schätzungen beenden will. Einzelne Bausteine funktionieren auch für sich.",
+      "desc": "Planen mit Shape Up von Ryan Singer (Basecamp, 37signals), aus dem Drive Leadership Playbook. Die Zeit wird fixiert, der Scope angepasst.",
+      "summary": "Shape Up ist ein Planungsansatz, den Ryan Singer bei Basecamp (37signals) entwickelt hat. Der Kerngedanke ist eine Umkehrung: Statt einen festen Scope in variabler Zeit zu planen, wird die Zeit fixiert und der Scope angepasst. Du legst zuerst fest, wie viel Zeit dir eine Sache wert ist, den **Appetite**, und passt den Umfang daran an. Das zwingt zu Entscheidungen, weil nicht alles hineinpasst.",
+      "files": [
+        "SKILL.md",
+        "templates/pitch.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "impact-effort-matrix",
+      "title": "Impact/Effort-Matrix",
+      "area": "Ship",
+      "topic": "S2 Plan & Prioritize",
+      "origin": "Dominik Kenzler (das Buch nennt keine Urheber:in)",
+      "deepDive": false,
+      "description": "Impact/Effort-Matrix (auch Effort/Value-Matrix) aus dem Drive Leadership Playbook von Dominik Kenzler: das einfachste Priorisierungswerkzeug. Initiativen werden nach erwartetem Impact und benötigtem Aufwand in vier Quadranten sortiert (Quick Wins, Big Bets, Incremental, Money Pit). Nutze diesen Skill, wenn jemand viele Ideen schnell sortieren, einen Team-Workshop zur ersten Priorisierung vorbereiten, einen Backlog ausdünnen, Quick Wins finden oder Initiativen identifizieren will, die gestrichen werden sollten.",
+      "desc": "Impact/Effort-Matrix (auch Effort/Value-Matrix) aus dem Drive Leadership Playbook von Dominik Kenzler: das einfachste Priorisierungswerkzeug. Initiativen werden nach erwartetem Impact und benötigtem Aufwand in vier Quadranten sortiert (Quick Wins, Big Bets, Incremental, Money Pit).",
+      "summary": "Die Impact/Effort-Matrix, auch bekannt als Effort/Value-Matrix, ist das einfachste Priorisierungswerkzeug im Kapitel SHIP. Sie teilt Initiativen in vier Quadranten ein, basierend auf zwei Achsen: dem erwarteten Impact und dem benötigten Aufwand.",
+      "files": [
+        "SKILL.md",
+        "templates/impact-effort-matrix.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "team-roadmap",
+      "title": "Roadmap (Team-Roadmap)",
+      "area": "Ship",
+      "topic": "S2 Plan & Prioritize",
+      "origin": "Dominik Kenzler (Confidence-Konzept aus Product Roadmaps Relaunched)",
+      "deepDive": false,
+      "description": "Team-Roadmap im Alltag führen, aus dem Drive Leadership Playbook von Dominik Kenzler: die operative Seite der Roadmap. Was wird wann geliefert und warum, wie hältst du die Roadmap aktuell, machst Confidence je Eintrag sichtbar und zeigst Leadership und Team die jeweils passende Sicht. Nutze diesen Skill, wenn jemand eine Roadmap für ein Produkt-, Marketing-, People- oder Finance-Team erstellen, aktualisieren oder kommunizieren, Änderungen an Stakeholder vermitteln, Status und Unsicherheit je Thema kennzeichnen oder verhindern will, dass die Roadmap als Versprechen gelesen wird. Für Aufbau und Formate strategischer Roadmaps gibt es eigene Skills (roadmap-anatomy, now-next-later, go-product-roadmap).",
+      "desc": "Team-Roadmap im Alltag führen, aus dem Drive Leadership Playbook von Dominik Kenzler: die operative Seite der Roadmap. Was wird wann geliefert und warum, wie hältst du die Roadmap aktuell, machst Confidence je Eintrag sichtbar und zeigst Leadership und Team die jeweils passende Sicht.",
+      "summary": "Eine Roadmap ist die visuelle Darstellung des Plans: Was wird wann geliefert und warum? Sie ist das zentrale Kommunikationsinstrument zwischen Team, Stakeholdern und Leadership. Das gilt für Produktteams genauso wie für Marketing-, People- oder Finance-Teams, die ihre Initiativen strukturiert kommunizieren wollen.",
+      "files": [
+        "SKILL.md",
+        "templates/team-roadmap.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "capacity-planning",
+      "title": "Capacity Planning",
+      "area": "Ship",
+      "topic": "S2 Plan & Prioritize",
+      "origin": "Dominik Kenzler (das Buch nennt keine Urheber:in)",
+      "deepDive": false,
+      "description": "Capacity Planning in sechs Schritten aus dem Drive Leadership Playbook von Dominik Kenzler: die verfügbare Kapazität eines Teams sichtbar machen, bevor Commitments eingegangen werden. Nutze diesen Skill, wenn jemand ein Quartal, Halbjahr oder einen Sprint realistisch planen, Teamkapazität berechnen, Urlaub, Feiertage, Teilzeit und Onboarding einrechnen, Puffer für ungeplante Arbeit festlegen, Szenarien wie Ausfälle oder neue Initiativen durchspielen oder chronische Überlastung im Team vermeiden will. Führt durch Detailgrad, Maßeinheit, Zeitraum, Verfügbarkeit, Einplanung und Szenarienvergleich.",
+      "desc": "Capacity Planning in sechs Schritten aus dem Drive Leadership Playbook von Dominik Kenzler: die verfügbare Kapazität eines Teams sichtbar machen, bevor Commitments eingegangen werden.",
+      "summary": "Jedes Team hat eine endliche Kapazität. Ferien, Krankheit, Meetings, Onboarding, technische Schulden: All das frisst Zeit. Wer das nicht einkalkuliert, macht Pläne, die auf dem Papier gut aussehen und in der Praxis scheitern. Dominik hat selten erlebt, dass ein Team seine Kapazität überschätzt. Fast immer gilt das Gegenteil.",
+      "files": [
+        "SKILL.md",
+        "templates/capacity-plan.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "extreme-clarity",
+      "title": "Extreme Clarity",
+      "area": "Ship",
+      "topic": "S3 Create Execution Clarity",
+      "origin": "Naomi Gleit",
+      "deepDive": true,
+      "description": "Extreme Clarity nach Naomi Gleit (Meta), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn nach Meetings jede Person etwas anderes verstanden hat, Entscheidungen immer wieder aufgemacht werden, dieselben Fragen ständig neu auftauchen oder Teams in die falsche Richtung laufen. Hilft, ein Meeting klar vorzubereiten, zu führen und abzuschließen (Agenda und Pre-read, sichtbares Element, drei Optionen mit Empfehlung, Entscheidungen in Echtzeit festhalten, Zusammenfassung), Dokumente referenzierbar zu machen und eine Canonical Nomenclature festzulegen.",
+      "desc": "Extreme Clarity nach Naomi Gleit (Meta), aus dem Drive Leadership Playbook.",
+      "summary": "Extreme Clarity ist ein Prinzip von Naomi Gleit, Head of Product bei Meta. Die Kernaussage: Klarheit ist der Kern operationaler Exzellenz in einer Organisation. Klarheit bedeutet nicht, dass alle einer Meinung sind. Sie bedeutet, dass alle dasselbe Verständnis und denselben Wissensstand haben: Alle kennen das Ziel, die möglichen Optionen und die nächsten Schritte.",
+      "files": [
+        "SKILL.md",
+        "templates/meeting-ablauf.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "canonical-document",
+      "title": "Canonical Document",
+      "area": "Ship",
+      "topic": "S3 Create Execution Clarity",
+      "origin": "Naomi Gleit",
+      "deepDive": false,
+      "description": "Canonical Document nach Naomi Gleit (Meta), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn Informationen zu einem Projekt über Dokumente, Chats, E-Mails und Präsentationen verstreut sind, neue Leute fragen »Wo finde ich alles, was ich wissen muss?« und es keine eindeutige Antwort gibt, oder wenn ein Projekt, eine Initiative oder ein Workstream startet. Führt durch Ziel, Workstreams und Owner, People, Process und Canonical Nomenclature und erstellt ein schlankes Index-Dokument als die eine Antwort auf »Wo finde ich alles?«.",
+      "desc": "Canonical Document nach Naomi Gleit (Meta), aus dem Drive Leadership Playbook.",
+      "summary": "Das Canonical Document ist ein Konzept von Naomi Gleit. Die Ausgangsfrage: Wenn jemand neu in ein Projekt einsteigt und fragt »Wo finde ich alles, was ich wissen muss?«, gibt es eine einzige Antwort? In den meisten Organisationen lautet die ehrliche Antwort: Nein. Informationen sind über Dokumente, Chats, E-Mails und Präsentationen verteilt, niemand hat den vollständigen Überblick.",
+      "files": [
+        "SKILL.md",
+        "templates/canonical-document.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "facilitation",
+      "title": "Facilitation",
+      "area": "Ship",
+      "topic": "S3 Create Execution Clarity",
+      "origin": "Alex Pukinskis",
+      "deepDive": false,
+      "description": "Facilitation nach Alex Pukinskis (»Remotely Productive«), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ein Meeting, eine Entscheidungsrunde oder einen Workshop vorbereiten oder besser führen will, wenn Meetings ohne Ergebnis enden, die Lautesten dominieren oder alle gleichzeitig analysieren, brainstormen und entscheiden. Auch, wenn du in einem schlecht laufenden Meeting sitzt, das du nicht leitest. Führt durch Rahmen und Pre-read, sichtbares Mitschreiben, getrennte Phasen, Raum für Stille, Fragetechnik und Entscheidungen in Echtzeit.",
+      "desc": "Facilitation nach Alex Pukinskis (»Remotely Productive«), aus dem Drive Leadership Playbook.",
+      "summary": "Facilitation ist keine Moderationsfähigkeit, sondern eine Führungsfähigkeit. Wer Meetings gut führt, schafft Klarheit, baut Vertrauen auf und bringt Teams schneller zu guten Entscheidungen. Wer es schlecht macht, vergeudet die teuerste Ressource einer Organisation: die gemeinsame Zeit.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "dri",
+      "title": "DRI (Directly Responsible Individual)",
+      "area": "Ship",
+      "topic": "S3 Create Execution Clarity",
+      "origin": "Apple, verbreitet durch Claire Hughes Johnson",
+      "deepDive": false,
+      "description": "DRI (Directly Responsible Individual), ursprünglich von Apple, bekannt geworden durch »Scaling People« von Claire Hughes Johnson, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn Verantwortung kollektiv verteilt ist und Dinge liegen bleiben, wenn Co-Leads oder ganze Teams als verantwortlich eingetragen sind, wenn niemand weiß, an wen man sich wenden soll, oder wenn für Initiativen, Workstreams, Projekte oder Entscheidungen klare Verantwortliche festgelegt werden sollen. Führt dazu, pro Vorhaben genau einen Namen festzulegen, mit Autorität auszustatten und sichtbar zu machen.",
+      "desc": "DRI (Directly Responsible Individual), ursprünglich von Apple, bekannt geworden durch »Scaling People« von Claire Hughes Johnson, aus dem Drive Leadership Playbook.",
+      "summary": "DRI steht für Directly Responsible Individual. Das Konzept kommt ursprünglich von Apple und wurde durch »Scaling People« von Claire Hughes Johnson als Führungsprinzip breiter bekannt. Die Idee ist einfach: Für jede Initiative, jede Entscheidung und jedes Projekt gibt es genau eine Person, die verantwortlich ist. Nicht ein Team. Nicht zwei Co-Leads. Eine Person.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "progress-optics",
+      "title": "Progress sichtbar machen und Optics verstehen",
+      "area": "Ship",
+      "topic": "S3 Create Execution Clarity",
+      "origin": "Shreyas Doshi",
+      "deepDive": false,
+      "description": "Progress sichtbar machen und Optics verstehen, nach den drei Ebenen Execution, Impact und Optics von Shreyas Doshi, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn die Arbeit eines Teams in der Organisation nicht gesehen wird, Stakeholder ständig nach dem Status fragen, ein Team trotz guter Arbeit gekürzt zu werden droht, oder wenn jemand ein wöchentliches Team-Update (etwa in Slack) oder ein Dashboard aufsetzen will. Führt durch das Update mit drei Fragen (erreicht, als Nächstes, blockiert) und prüft, auf welcher Ebene Team und Leadership gerade schauen.",
+      "desc": "Progress sichtbar machen und Optics verstehen, nach den drei Ebenen Execution, Impact und Optics von Shreyas Doshi, aus dem Drive Leadership Playbook.",
+      "summary": "Ein Fortschritt, der nicht sichtbar ist, existiert für die Organisation nicht. Wenn niemand weiß, was ein Team erreicht hat, wenn Erfolge nicht kommuniziert und Metriken nicht geteilt werden, entsteht ein Vakuum, und es füllt sich schnell und nachhaltig mit Vermutungen. Fortschritt sichtbar zu machen, ist deshalb keine optionale Kommunikationsaufgabe, sondern ein Führungsinstrument.",
+      "files": [
+        "SKILL.md",
+        "templates/team-update.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "timely-decisions",
+      "title": "Timely Decisions",
+      "area": "Ship",
+      "topic": "S4 Make Fast Decisions",
+      "origin": "Chip Heath und Dan Heath",
+      "deepDive": true,
+      "description": "Timely Decisions mit Multitracking und Tripwires aus »Decisive« von Chip und Dan Heath (WRAP), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn eine Entscheidung stockt oder immer wieder vertagt wird, ein Team in einer Entweder-oder-Frage feststeckt, alle auf mehr Daten warten, Entscheidungen ständig wieder aufgemacht werden oder jemand für eine riskante Entscheidung vorab festlegen will, wann nachjustiert wird. Führt durch Optionen weiten (Vanishing-Options-Test, Opportunitätskosten, Leiter), zwei bis drei echte Optionen, Entscheidung bei rund 70 Prozent Information und Tripwires, Bookending und Premortem.",
+      "desc": "Timely Decisions mit Multitracking und Tripwires aus »Decisive« von Chip und Dan Heath (WRAP), aus dem Drive Leadership Playbook.",
+      "summary": "In fast jeder Organisation gibt es dasselbe Muster: Teams warten auf mehr Daten, Führungskräfte wollen noch eine Runde Abstimmung, Entscheidungen werden vertagt, bis der richtige Zeitpunkt kommt. Das Ergebnis sind nicht schlechte, sondern zu späte Entscheidungen. Es gibt weit mehr Entscheidungen, die zu langsam getroffen werden, als solche, die durch längeres Warten besser werden. Mehr Zeit bedeutet meistens nur mehr Meetings.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "one-way-two-way-door",
+      "title": "Two-Way versus One-Way Door",
+      "area": "Ship",
+      "topic": "S4 Make Fast Decisions",
+      "origin": "Jeff Bezos (Amazon), beschrieben von Colin Bryar und Bill Carr",
+      "deepDive": false,
+      "description": "Two-Way versus One-Way Door nach Jeff Bezos (Amazon, beschrieben in »Working Backwards« von Colin Bryar und Bill Carr), ergänzt um Magnitude mal Reversibilität von Gibson Biddle, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand einschätzen will, wie viel Zeit, Analyse und Beteiligung eine Entscheidung verdient, wenn alles nach oben eskaliert wird und Teams auf Freigaben warten, oder wenn eine Führungskraft festlegen will, welche Entscheidungen ihre Teams selbst treffen. Führt dazu, Entscheidungen als umkehrbar oder irreversibel einzuordnen und danach schnell zu entscheiden, zu delegieren oder gründlich vorzugehen.",
+      "desc": "Two-Way versus One-Way Door nach Jeff Bezos (Amazon, beschrieben in »Working Backwards« von Colin Bryar und Bill Carr), ergänzt um Magnitude mal Reversibilität von Gibson Biddle, aus dem Drive Leadership Playbook.",
+      "summary": "Jeff Bezos hat in seinem Amazon-Aktionärsbrief von 2015 einen der einfachsten Entscheidungsfilter formuliert: One-way Door oder Two-way Door?",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "disagree-and-commit",
+      "title": "Disagree and Commit",
+      "area": "Ship",
+      "topic": "S4 Make Fast Decisions",
+      "origin": "Amazon",
+      "deepDive": false,
+      "description": "Disagree and Commit, ein Prinzip aus der Amazon-Führungskultur, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn eine Entscheidung trotz Meinungsverschiedenheit getroffen werden muss, ein Team auf Konsens wartet und Entscheidungen verwässern, jemand überstimmt wurde und die Entscheidung trotzdem vertreten soll, oder wenn eine Entscheidung nach außen halbherzig kommuniziert oder passiv sabotiert wird. Hilft, den Disagreement-Teil wirklich zu hören, das Commitment explizit zu machen und es nach außen zu vertreten.",
+      "desc": "Disagree and Commit, ein Prinzip aus der Amazon-Führungskultur, aus dem Drive Leadership Playbook.",
+      "summary": "Disagree and Commit ist ein Prinzip aus der Amazon-Führungskultur. Die Idee: Man kann inhaltlich anderer Meinung sein und trotzdem vollständig hinter einer Entscheidung stehen, sobald sie getroffen ist. Das klingt einfach, ist in der Praxis aber eine der schwierigsten Führungsdisziplinen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "trojan-horse-draft",
+      "title": "Trojan Horse Draft",
+      "area": "Ship",
+      "topic": "S4 Make Fast Decisions",
+      "origin": "Jonathan Abon",
+      "deepDive": false,
+      "description": "Trojan Horse Draft (im Buch auch Draft-Prinzip), von Dominik Kenzler bei Jonathan Abon (VP Product, Utopia Music) abgeschaut, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn ein wichtiges Thema festhängt, weil ein anderes Team nicht kooperiert, eine Entscheidung außerhalb deiner Autorität liegt, niemand Ownership übernimmt oder ein Vakuum entsteht, das sonst jemand anderes füllt. Hilft, schnell einen bewusst unfertigen Entwurf zu erstellen und so einzubringen, dass er Urgency erzeugt und andere in Bewegung bringt, ohne Perfektion zu beanspruchen.",
+      "desc": "Trojan Horse Draft (im Buch auch Draft-Prinzip), von Dominik Kenzler bei Jonathan Abon (VP Product, Utopia Music) abgeschaut, aus dem Drive Leadership Playbook.",
+      "summary": "Entscheidungen scheitern oft nicht an der Entscheidung selbst, sondern an dem, was folgt: Blockaden, ungeklärte Abhängigkeiten, fehlende Ressourcen, organisatorische Trägheit. Das Draft-Prinzip arbeitet genau dagegen an: einfach anfangen, auch wenn es nicht der eigene Ownership-Bereich ist, und damit andere dazu bringen, sich zu bewegen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "decision-log",
+      "title": "Decision Log",
+      "area": "Ship",
+      "topic": "S4 Make Fast Decisions",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Decision Log aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn Entscheidungen in Meetings, Slack oder mündlich fallen und danach verschwinden, wenn sich nach einem Meeting alle unterschiedlich erinnern, wenn Entscheidungen ständig wieder aufgemacht werden oder wenn jemand ein einfaches Log für ein Team oder Projekt anlegen oder einen Eintrag formulieren will. Führt durch die vier Elemente jedes Eintrags (was, warum und welche Alternativen, wer, wann), ergänzt um DRI, Dokumente und Einordnung als One-way oder Two-way Door, und klärt, wer das Log pflegt.",
+      "desc": "Decision Log aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Entscheidungen verschwinden. In Meetings getroffen, in Slack-Nachrichten erwähnt, mündlich bestätigt und dann plötzlich weg von der Bildfläche. Zwei Monate später weiß niemand mehr, wer was entschieden hat und warum. Die Entscheidung wird wieder aufgemacht, der Prozess beginnt von vorne.",
+      "files": [
+        "SKILL.md",
+        "templates/decision-log.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "checklist",
+      "title": "Checklist",
+      "area": "Ship",
+      "topic": "S5 Ensure Quality",
+      "origin": "Atul Gawande",
+      "deepDive": false,
+      "description": "Checklisten bauen nach Atul Gawande (The Checklist Manifesto), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand bei wiederkehrenden, komplexen Aufgaben verhindern will, dass etwas übersehen wird. Typische Auslöser: Release- oder Launch-Checkliste erstellen, Handover oder Übergabe absichern, Qualitätskontrolle vor der Auslieferung, Onboarding neuer Mitarbeitender, Vorbereitung wichtiger Meetings, Projektabschluss, wiederkehrendes Reporting, eigene Leadership-Checkliste für den Arbeitstag. Führt durch Auswahl des Moments, Wahl zwischen Do-Confirm und Read-Do und die Reduktion auf fünf bis neun überprüfbare Punkte.",
+      "desc": "Checklisten bauen nach Atul Gawande (The Checklist Manifesto), aus dem Drive Leadership Playbook.",
+      "summary": "Im Leadership-Alltag gibt es Momente, in denen man sich fragt: Wie konnte das übersehen werden? Vieles ändert sich von Projekt zu Projekt, aber dieselben Themen tauchen immer wieder auf. Genau dort lohnt sich eine Liste, die man abhaken kann.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "definition-of-done",
+      "title": "Definition of Done",
+      "area": "Ship",
+      "topic": "S5 Ensure Quality",
+      "origin": "Dominik Kenzler (Gedanke zu »fertig« nach Sead Goedecke)",
+      "deepDive": false,
+      "description": "Eine Definition of Done festlegen, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn ein Team klären muss, wann eine Arbeit wirklich abgeschlossen ist, und was im Scope ist und was nicht. Typische Auslöser: ein Projekt oder Redesign mit ambitionierter Timeline starten, V1 abgrenzen, unterschiedliche Vorstellungen von »fertig« im Team oder mit Stakeholdern, Streit kurz vor dem Launch, Scope schützen, Definition nach geänderten Rahmenbedingungen anpassen. Grundgedanke nach Sead Goedecke: Fertig ist kein technischer, sondern ein sozialer Zustand.",
+      "desc": "Eine Definition of Done festlegen, aus dem Drive Leadership Playbook.",
+      "summary": "Was bedeutet »fertig«? Die Antwort ist weniger selbstverständlich, als sie klingt. Sead Goedecke, Staff Software Engineer bei GitHub, formuliert es so: Fertig ist kein technischer Zustand, sondern ein sozialer. Eine Arbeit gilt als abgeschlossen, wenn die wichtigen Menschen im Unternehmen es so sehen. Wer etwas deployt, aber VP oder CEO sind nicht zufrieden, hat etwas in die Welt gebracht, ist aber nicht fertig.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "braintrust",
+      "title": "Quality Review / Braintrust",
+      "area": "Ship",
+      "topic": "S5 Ensure Quality",
+      "origin": "Ed Catmull",
+      "deepDive": true,
+      "description": "Quality Reviews nach dem Vorbild des Pixar Braintrust (Ed Catmull, Creativity, Inc.) aufsetzen und führen, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ehrliches Feedback auf laufende Arbeit organisieren will, ohne dass der Review zur Bewertungssession wird. Typische Auslöser: Design Critique, Product Review oder Peer Review einführen, Review-Rhythmus festlegen, eine Review-Runde zusammenstellen, Feedback als Notes statt Anweisungen geben, Qualität vor einem Release prüfen, Reviews, in denen niemand offen spricht. Führt durch die fünf Bedingungen: Fachleute als Peers, das Werk statt der Person, Notes statt Vorschriften, Candor ohne Grausamkeit, das Ganze reviewen.",
+      "desc": "Quality Reviews nach dem Vorbild des Pixar Braintrust (Ed Catmull, Creativity, Inc.) aufsetzen und führen, aus dem Drive Leadership Playbook.",
+      "summary": "Reviews sind keine bürokratischen Pflichten, sondern das operative Herzstück der Qualitätssicherung. Ein Quality Review im Sinne des Braintrust ist kein Tribunal, bei dem die Führung urteilt und das Team zuhört. Er ist ein Gespräch, in dem erfahrene Leute helfen, Probleme früh zu sehen und zu verstehen. Ziel ist nicht, recht zu behalten, sondern dass die Arbeit besser wird.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "show-your-work",
+      "title": "Show Your Work",
+      "area": "Ship",
+      "topic": "S5 Ensure Quality",
+      "origin": "Dominik Kenzler (Lightning Demos nach Jake Knapp, John Zeratsky und Braden Kowitz)",
+      "deepDive": false,
+      "description": "Best Practice Sharing und Show Your Work, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand die Qualitätsbar im Team sichtbar machen und kontinuierlich erhöhen will, indem gute Beispiele von außen und aus dem eigenen Team regelmäßig geteilt und eingeordnet werden. Typische Auslöser: gemeinsames Qualitätsverständnis aufbauen, Inspirations- oder Slack-Kanal aufsetzen, Lightning Demos durchführen (Format aus dem Design Sprint von Jake Knapp, John Zeratsky, Braden Kowitz), Book Club starten, Lernkultur stärken, Fehler und Learnings teilen.",
+      "desc": "Best Practice Sharing und Show Your Work, aus dem Drive Leadership Playbook.",
+      "summary": "Die Qualitätsbar steht nicht still. Was heute als exzellent gilt, ist morgen Standard. Einer der wirkungsvollsten Wege, sie kontinuierlich zu erhöhen, ist das regelmäßige Teilen von Best Practices, intern und extern. Artikel, Talks, Produkte anderer Unternehmen, Moodboards: All das schafft eine gemeinsame Referenzgrundlage, auf die sich ein Team beziehen kann. Es geht nicht ums Kopieren, sondern um ein geteiltes Bild davon, was exzellent aussieht und sich so anfühlt.",
+      "files": [
+        "SKILL.md",
+        "templates/lightning-demo.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "performance-reviews",
+      "title": "Performance Reviews",
+      "area": "Ship",
+      "topic": "S5 Ensure Quality",
+      "origin": "Dominik Kenzler (Gesprächsführung nach Carol Gill)",
+      "deepDive": false,
+      "description": "Performance Reviews vorbereiten und führen, aus dem Drive Leadership Playbook, mit Gedanken von Molly Graham, Sebastian Barrios und den fünf Tipps von Carol Gill (Melbourne Business School). Nutze diesen Skill, wenn eine Führungskraft ein Jahres- oder Halbjahresgespräch, ein Performance-Gespräch oder eine Leistungsbeurteilung vorbereitet, eine Selbsteinschätzung strukturieren will, unsicher ist, ob ein Performance-Problem eigentlich ein Klarheitsproblem ist, oder einen Entwicklungsplan ableiten will. Bewertet in zwei Dimensionen: Was wurde erreicht (zwei bis drei wichtigste Ziele) und wie (Unternehmenswerte).",
+      "desc": "Performance Reviews vorbereiten und führen, aus dem Drive Leadership Playbook, mit Gedanken von Molly Graham, Sebastian Barrios und den fünf Tipps von Carol Gill (Melbourne Business School).",
+      "summary": "Ein Team kontinuierlich zu verbessern und Mitarbeitenden beim Wachsen zu helfen, geht nur über klar formulierte Erwartungen und Ziele. In der Praxis sind sie oft zu schwammig. Je weniger Erfahrung jemand mitbringt, desto wichtiger ist Klarheit. Sehr erfahrene Mitarbeitende brauchen einen Rahmen, der deutlich gröber sein kann.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "ikigai",
+      "title": "Ikigai",
+      "area": "Yourself",
+      "topic": "Teil 1 Dich selbst kennen",
+      "origin": "Japanisches Konzept, Vier-Kreise-Darstellung nach Andrés Zuzunaga und Marc Winn",
+      "deepDive": false,
+      "description": "Den persönlichen Sinn als Führungskraft klären mit Ikigai, dem japanischen Konzept vom Grund, warum man morgens aufsteht, in der Vier-Kreise-Darstellung nach Andrés Zuzunaga und Marc Winn, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand sich fragt, wozu er oder sie eigentlich führt, sich ausgebrannt oder leer fühlt, über einen Rollen- oder Karrierewechsel nachdenkt, den inneren Anker sucht oder alle paar Jahre prüfen will, ob Arbeit und persönliche Bedeutung noch zusammenpassen. Führt durch die vier Fragen: Was liebst du? In was bist du gut? Was braucht die Welt? Wofür wirst du bezahlt?",
+      "desc": "Den persönlichen Sinn als Führungskraft klären mit Ikigai, dem japanischen Konzept vom Grund, warum man morgens aufsteht, in der Vier-Kreise-Darstellung nach Andrés Zuzunaga und Marc Winn, aus dem Drive Leadership Playbook.",
+      "summary": "Ikigai ist ein japanisches Konzept. Der Begriff setzt sich zusammen aus »iki« (Leben) und »gai« (Wert, Sinn). Ikigai beschreibt den Grund, warum man morgens aufsteht. Es ist keine Karrierestrategie und kein Produktivitätswerkzeug, sondern die Frage nach dem, was dir persönlich Bedeutung gibt.",
+      "files": [
+        "SKILL.md",
+        "templates/ikigai.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "work-journal",
+      "title": "Work Journal",
+      "area": "Yourself",
+      "topic": "Teil 1 Dich selbst kennen",
+      "origin": "Dominik Kenzler, nach dem Format von Tanner Christensen",
+      "deepDive": false,
+      "description": "Ein Work Journal einrichten und führen, im Format, das Dominik Kenzler von Tanner Christensen kennengelernt hat, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn eine Führungskraft regelmäßig reflektieren, den Überblick über viele parallele Themen behalten, aus der eigenen Arbeit lernen, Muster erkennen oder Fieldnotes für Projekt-Retros, Case Studies und Performance Reviews sammeln will. Typische Auslöser: Wochenreflexion, Onboarding in einem neuen Job, Journaling-Routine aufbauen, Einträge nach drei Monaten auswerten, KI als Journaling-Unterstützung nutzen. Führt durch Einrichtung, die drei Kernfragen und die Auswertung nach zwölf Wochen.",
+      "desc": "Ein Work Journal einrichten und führen, im Format, das Dominik Kenzler von Tanner Christensen kennengelernt hat, aus dem Drive Leadership Playbook.",
+      "summary": "Ein Work Journal ist eines der einfachsten und wirkungsvollsten Werkzeuge für Selbstführung: ein Arbeitsjournal, in dem du festhältst, was in deinem Arbeitsleben passiert, das Gute wie das Schwierige. Regelmäßig, ein paar Minuten, schriftlich.",
+      "files": [
+        "SKILL.md",
+        "templates/work-journal.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "feedback-einholen",
+      "title": "Feedback aktiv einholen",
+      "area": "Yourself",
+      "topic": "Teil 1 Dich selbst kennen",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Als Führungskraft aktiv Feedback einholen, statt darauf zu warten, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand ehrliches Feedback auf die eigene Führung will, spezifische Feedbackfragen formulieren, Feedback in 1:1s verankern, ein 360-Grad-Feedback mit Direct Reports, Peers und Vorgesetzten aufsetzen, Feedback von außen (Mentor, Coach, Peers in anderen Unternehmen) holen, Feedback auswerten und den Kreis schließen will. Auch hilfreich bei Spannungen mit einem anderen Team, weil aktiv eingeholtes Feedback Konflikte lösen und Vertrauen aufbauen kann.",
+      "desc": "Als Führungskraft aktiv Feedback einholen, statt darauf zu warten, aus dem Drive Leadership Playbook.",
+      "summary": "Die meisten Führungskräfte warten auf Feedback, die wenigsten holen es sich aktiv. Das ist ein strukturelles Problem: Feedback kommt selten von allein, und wenn es kommt, kommt es zu spät.",
+      "files": [
+        "SKILL.md",
+        "templates/360-feedback.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "persoenlichkeitstests",
+      "title": "Persönlichkeitstests und Selbstkenntnis",
+      "area": "Yourself",
+      "topic": "Teil 1 Dich selbst kennen",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Persönlichkeitstests für Selbstkenntnis nutzen, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn eine Führungskraft einen passenden Test auswählen (Insights Discovery, Hogan, Myers-Briggs MBTI, DISC), ein Testergebnis reflektieren, eigene Muster und blinde Flecken verstehen, Derailers unter Stress erkennen, ein Ergebnis mit Mentor, Coach oder Team besprechen oder Tests im Team als gemeinsames Vokabular einsetzen will. Der Skill führt keinen Test durch und bestimmt keinen Typ. Er hilft bei Auswahl, Vorbereitung und Auswertung, mit dem Ergebnis als Gesprächsangebot, nicht als Urteil.",
+      "desc": "Persönlichkeitstests für Selbstkenntnis nutzen, aus dem Drive Leadership Playbook.",
+      "summary": "Selbstkenntnis entsteht auf zwei Wegen: durch eigene Reflexion und durch externe Perspektiven. Persönlichkeitstests sind ein Werkzeug für den zweiten Weg. Sie zeigen strukturiert, wie du auf andere wirkst, wie du Entscheidungen triffst, wie du unter Stress reagierst und was dich antreibt.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "executive-presence",
+      "title": "Executive Presence entwickeln",
+      "area": "Yourself",
+      "topic": "Teil 1 Dich selbst kennen",
+      "origin": "Sylvia Ann Hewlett",
+      "deepDive": false,
+      "description": "Executive Presence entwickeln nach Sylvia Ann Hewlett, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn eine Führungskraft an ihrer Wirkung arbeiten will, weil gute Inhalte allein nicht ankommen, sie in Meetings oder vor dem Senior Leadership unsicher wirkt, unter kritischen Fragen die Souveränität verliert, zu viel absichert und rechtfertigt oder sich auf einen Auftritt vorbereitet. Führt durch die drei Elemente Gravitas, Kommunikation und Authentizität, konkrete beobachtbare Verhaltensweisen und einen Übungsplan mit ein bis zwei Verhaltensweisen und Feedback.",
+      "desc": "Executive Presence entwickeln nach Sylvia Ann Hewlett, aus dem Drive Leadership Playbook.",
+      "summary": "Gute Inhalte allein reichen nicht. Wie du wirkst, entscheidet, ob dir Menschen folgen. Der Begriff Executive Presence wurde von Sylvia Ann Hewlett geprägt und beschreibt die Fähigkeit, Glaubwürdigkeit, Souveränität und Einfluss auszustrahlen, unabhängig von der hierarchischen Position. Es geht nicht darum, laut oder charismatisch zu sein, sondern darum, wie das Gesagte ankommt.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "calendar-review",
+      "title": "Calendar Review: Impact und Energie",
+      "area": "Yourself",
+      "topic": "Teil 2 Dich im Alltag steuern",
+      "origin": "Claire Hughes Johnson, mit Varianten von Matt Mochary und Design Dept. (Mia Blume)",
+      "deepDive": false,
+      "description": "Kalender nach Impact und Energie auswerten mit dem Calendar Review nach Claire Hughes Johnson (Scaling People), ergänzt um Varianten von Matt Mochary und Design Dept., aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand sich ausgelaugt fühlt, den Kalender entrümpeln, Meetings streichen oder delegieren, Fokuszeit schaffen oder verstehen will, welche Termine Energie geben und welche kosten. Führt durch den quartalsweisen Review der letzten vier Wochen, ordnet jeden Termin in die Matrix Impact gegen Energie ein (schützen und ausbauen, bewusst dosieren, umgestalten, streichen oder delegieren) und endet mit konkreten Kalenderänderungen.",
+      "desc": "Kalender nach Impact und Energie auswerten mit dem Calendar Review nach Claire Hughes Johnson (Scaling People), ergänzt um Varianten von Matt Mochary und Design Dept., aus dem Drive Leadership Playbook.",
+      "summary": "Dein Kalender ist eine der ehrlichsten Aussagen darüber, wie du führst. Nicht, was du sagst oder was du priorisierst, sondern womit du tatsächlich Zeit verbringst. Der Calendar Review prüft jeden Termin auf zwei Fragen: Hat er auf deine Ziele eingezahlt (Impact)? Und hat er dir Energie gegeben oder gekostet?",
+      "files": [
+        "SKILL.md",
+        "templates/calendar-review-matrix.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "breathwork",
+      "title": "Breathwork und Stressmanagement",
+      "area": "Yourself",
+      "topic": "Teil 2 Dich im Alltag steuern",
+      "origin": "Dominik Kenzler, angeregt durch Alan Watkins (Complete Coherence)",
+      "deepDive": false,
+      "description": "Stress regulieren mit Breathwork und einem Stressmanagement-System aus drei Ebenen (Prävention, Regulation im Moment, Verarbeitung danach), aus dem Drive Leadership Playbook, angeregt durch Alan Watkins (Complete Coherence). Nutze diesen Skill, wenn jemand vor einem schwierigen Gespräch, einer Präsentation oder einer Entscheidung unter Druck ruhiger werden will, unter Anspannung den Faden verliert, eine tägliche Atempraxis aufbauen oder den eigenen Umgang mit Stress als Führungskraft systematisch prüfen will. Enthält die 4-7-8-Atmung für den akuten Moment und die kohärente Atmung als tägliche Praxis.",
+      "desc": "Stress regulieren mit Breathwork und einem Stressmanagement-System aus drei Ebenen (Prävention, Regulation im Moment, Verarbeitung danach), aus dem Drive Leadership Playbook, angeregt durch Alan Watkins (Complete Coherence).",
+      "summary": "Leadership ist stressreich. Das ist die Natur der Rolle: komplexe Entscheidungen, hohe Erwartungen, ständige Unterbrechungen und Verantwortung für Menschen. Was zählt, ist nicht, ob du Stress hast, sondern wie du damit umgehst. Wer keinen aktiven Umgang mit Stress entwickelt, trägt ihn ins Team. Körperliche und mentale Belastbarkeit sind Führungskompetenzen.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "shutdown-ritual",
+      "title": "Shutdown Ritual und Daily Checklist",
+      "area": "Yourself",
+      "topic": "Teil 2 Dich im Alltag steuern",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Den Arbeitstag bewusst beginnen und beenden mit Start-up-Ritual, Shutdown-Ritual und Daily Checklist, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand morgens direkt in Inbox und Slack rutscht, abends nicht abschalten kann, die Arbeit in den Abend trägt, eine persönliche Tagesroutine oder Daily Checklist aufbauen oder eine bestehende Routine wieder aufnehmen will. Führt durch beide Rituale (Brain Dump, Kalender, Meetings vorbereiten, Win festhalten, Tasks für morgen, Laptop zuklappen) und passt sie an die Person an.",
+      "desc": "Den Arbeitstag bewusst beginnen und beenden mit Start-up-Ritual, Shutdown-Ritual und Daily Checklist, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Leadership ist eine der wenigen Tätigkeiten, bei denen die Arbeit nie wirklich fertig ist. Es gibt immer ein weiteres Problem, eine Nachricht, eine Entscheidung. Wer keinen bewussten Abschluss des Tages schafft, trägt die Arbeit in den Abend, die Nacht und in die Erholungsphase.",
+      "files": [
+        "SKILL.md",
+        "templates/daily-checklist.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "walk-and-talk",
+      "title": "Walk and Talk",
+      "area": "Yourself",
+      "topic": "Teil 2 Dich im Alltag steuern",
+      "origin": "Nilofer Merchant",
+      "deepDive": false,
+      "description": "Bewegung in den Arbeitstag holen mit Walk and Talk (Walking Meetings nach Nilofer Merchant), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand zu viel sitzt, Meetings als Energie ziehend erlebt, 1:1s oder Sparrings anders gestalten, Calls im Gehen führen oder prüfen will, welche Termine sich als Walking Meeting eignen. Unterscheidet das physische Walking Meeting und den Audio-Call im Gehen und hilft, geeignete Termine auszuwählen und vorzubereiten.",
+      "desc": "Bewegung in den Arbeitstag holen mit Walk and Talk (Walking Meetings nach Nilofer Merchant), aus dem Drive Leadership Playbook.",
+      "summary": "Ein typischer Leadership-Tag besteht aus viel Sitzen: ein Meeting nach dem anderen, am Bildschirm oder im Meetingraum. Das kostet Energie, schränkt das Denken ein und hinterlässt am Abend Müdigkeit. Walk and Talk ist die bewusste Entscheidung, Bewegung in den Arbeitstag einzubauen, statt sie ins Wochenende auszulagern.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "mut-zu-entscheidungen",
+      "title": "Mut zu Entscheidungen",
+      "area": "Yourself",
+      "topic": "Teil 2 Dich im Alltag steuern",
+      "origin": "Dominik Kenzler, mit Bezug auf Ben Horowitz, Raaz Herzberg und Jeff Bezos",
+      "deepDive": false,
+      "description": "Zögern überwinden und mutiger entscheiden mit der Methode Mut zu Entscheidungen aus dem Drive Leadership Playbook von Dominik Kenzler, mit Bezug auf Ben Horowitz, Raaz Herzberg und Jeff Bezos. Nutze diesen Skill, wenn jemand eine Entscheidung seit Tagen oder Wochen vor sich herschiebt, ein unbequemes Gespräch vertagt, auf mehr Informationen wartet, Angst vor Fehlern, Konsequenzen oder Konflikten hat oder vom inneren Kritiker blockiert wird. Führt durch vier Schritte: Zögern benennen, Frist setzen, reversibel oder irreversibel unterscheiden, mit rund 70 Prozent Informationen entscheiden.",
+      "desc": "Zögern überwinden und mutiger entscheiden mit der Methode Mut zu Entscheidungen aus dem Drive Leadership Playbook von Dominik Kenzler, mit Bezug auf Ben Horowitz, Raaz Herzberg und Jeff Bezos.",
+      "summary": "Leadership bedeutet, regelmäßig in Situationen zu sein, in denen es keine perfekte Antwort gibt: zwei schlechte Optionen, unvollständige Informationen, Zeitdruck, Menschen, die auf dich schauen. In diesen Momenten entscheidet nicht dein Wissen, sondern dein Mut.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "90-day-plan",
+      "title": "Der 90-Day-Plan",
+      "area": "Yourself",
+      "topic": "Teil 3 Dich weiterentwickeln und in Übergängen wachsen",
+      "origin": "Michael D. Watkins",
+      "deepDive": false,
+      "description": "Den eigenen Übergang in eine neue Führungsrolle planen mit dem 90-Day-Plan nach Michael D. Watkins (The First 90 Days), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand eine neue Führungsrolle antritt, den Job wechselt, eine neue Verantwortung übernimmt, eine Restrukturierung oder neue Unternehmensphase vor sich hat oder die eigenen ersten 90 Tage strukturieren will. Ordnet zuerst die Situation nach STARS ein (Start-up, Turnaround, Accelerated Growth, Realignment, Sustaining Success) und führt dann durch drei Phasen: Verstehen, Einordnen, Ausrichten. Nicht für das Onboarding neuer Mitarbeitender, dafür gibt es den 30/60/90-Day-Plan.",
+      "desc": "Den eigenen Übergang in eine neue Führungsrolle planen mit dem 90-Day-Plan nach Michael D. Watkins (The First 90 Days), aus dem Drive Leadership Playbook.",
+      "summary": "Die ersten 90 Tage in einer neuen Führungsrolle sind die wichtigste Phase, weil du sie nie wieder hast. Du kannst Fragen stellen, ohne als unwissend zu gelten. Du kannst beobachten, ohne sofort entscheiden zu müssen. Du hast einen natürlichen Vertrauensvorschuss, den du nutzt oder vergibst.",
+      "files": [
+        "SKILL.md",
+        "templates/90-day-plan.md",
+        "templates/stars-situation.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "positive-future-fiction",
+      "title": "Positive Future Fiction",
+      "area": "Yourself",
+      "topic": "Teil 3 Dich weiterentwickeln und in Übergängen wachsen",
+      "origin": "Jonathan Abon",
+      "deepDive": false,
+      "description": "Sorgen entkräften und den Fokus auf einen positiven Ausgang lenken mit Positive Future Fiction (PFF) nach Jonathan Abon, aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand sich Sorgen macht, im Kopf negative Szenarien durchspielt (Negative Future Fiction), vor einem schwierigen Gespräch, einer Präsentation oder Verhandlung steht, eine große, langfristige oder riskante Initiative durchhalten muss oder zu Jahresbeginn, in einer neuen Rolle oder nach einem schwierigen Quartal ein positives Zukunftsbild schreiben will. Führt durch den Rückblick auf ein erfolgreiches Jahr in der Vergangenheitsform und die Gegenüberstellung von NFF und PFF.",
+      "desc": "Sorgen entkräften und den Fokus auf einen positiven Ausgang lenken mit Positive Future Fiction (PFF) nach Jonathan Abon, aus dem Drive Leadership Playbook.",
+      "summary": "Positive Future Fiction, kurz PFF, ist eine Reflexionsmethode, die zwei Dinge verbindet: die bewusste Vorstellung eines positiven Zukunftsbildes und das Reframing negativer Gedankenmuster. Die Grundidee: Stell dir so konkret wie möglich vor, wie der Erfolg aussieht. Nicht als abstraktes Ziel, sondern als lebendiges Bild.",
+      "files": [
+        "SKILL.md",
+        "templates/nff-pff.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "leadership-blueprint",
+      "title": "Leadership Blueprint",
+      "area": "Yourself",
+      "topic": "Teil 3 Dich weiterentwickeln und in Übergängen wachsen",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Die eigene Arbeitsweise für das Team transparent machen mit dem Leadership Blueprint aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand als Führungskraft ein kurzes Dokument schreiben will, wie er oder sie führt, arbeitet, was antreibt und was von anderen erwartet wird, etwa beim Start mit einem neuen Team, einer neuen Rolle, neuen Direct Reports oder für die jährliche Überarbeitung. Auch bei Anfragen wie »How to work with me« oder »User Manual für mich als Führungskraft«. Führt durch die vier Bereiche und hilft, den Blueprint im 1:1 zu teilen.",
+      "desc": "Die eigene Arbeitsweise für das Team transparent machen mit dem Leadership Blueprint aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Ein Leadership Blueprint ist ein kurzes Dokument, in dem du beschreibst, wie du führst, was du von anderen erwartest und wie man am besten mit dir zusammenarbeitet. Er richtet sich an dein Team und gibt ihm Richtung.",
+      "files": [
+        "SKILL.md",
+        "templates/leadership-blueprint.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "mentor-und-sponsor",
+      "title": "Mentor und Sponsor",
+      "area": "Yourself",
+      "topic": "Teil 3 Dich weiterentwickeln und in Übergängen wachsen",
+      "origin": "Dominik Kenzler",
+      "deepDive": false,
+      "description": "Mentoren finden und Sponsoren aufbauen für die eigene Karriereentwicklung, aus dem Drive Leadership Playbook von Dominik Kenzler. Nutze diesen Skill, wenn jemand einen Mentor oder eine Mentorin sucht, eine Mentoring-Anfrage formulieren, das erste Mentoring-Gespräch vorbereiten, mehr Sichtbarkeit und Fürsprache für die eigene Arbeit aufbauen oder den Unterschied zwischen Mentor und Sponsor verstehen will. Auch für Führungskräfte, die selbst Mentor oder Sponsor für Mitarbeitende sein wollen. Führt durch eine Bestandsaufnahme, die Suche nach einem Mentor und die Bedingungen für Sponsoring.",
+      "desc": "Mentoren finden und Sponsoren aufbauen für die eigene Karriereentwicklung, aus dem Drive Leadership Playbook von Dominik Kenzler.",
+      "summary": "Mentor und Sponsor sind zwei verschiedene Rollen, die oft verwechselt werden. Der Unterschied ist fundamental, und beide zu haben ist ein wirksamer Hebel für die langfristige Karriereentwicklung.",
+      "files": [
+        "SKILL.md"
+      ],
+      "access": "pending",
+      "available": false
+    },
+    {
+      "slug": "designing-your-life",
+      "title": "Designing Your Life",
+      "area": "Yourself",
+      "topic": "Teil 3 Dich weiterentwickeln und in Übergängen wachsen",
+      "origin": "Bill Burnett und Dave Evans",
+      "deepDive": false,
+      "description": "Die eigene Laufbahn und das Leben als Designproblem angehen mit Designing Your Life nach Bill Burnett und Dave Evans (Stanford Life Design Lab), aus dem Drive Leadership Playbook. Nutze diesen Skill, wenn jemand an einem Wendepunkt steht, das Gefühl hat, nur noch zu funktionieren, über die nächsten fünf Jahre nachdenkt, Karriereoptionen durchspielen, einen Plan B entwickeln oder festgefahrene Überzeugungen über die eigene Laufbahn lösen will. Führt durch das Reframen dysfunktionaler Überzeugungen, das Erkennen von Gravity Problems, drei Odyssey Plans mit Titel, Fünf-Jahres-Zeitleiste, vier Reglern und offenen Fragen sowie kleine Prototypen.",
+      "desc": "Die eigene Laufbahn und das Leben als Designproblem angehen mit Designing Your Life nach Bill Burnett und Dave Evans (Stanford Life Design Lab), aus dem Drive Leadership Playbook.",
+      "summary": "Die meisten Methoden im YOURSELF-Kapitel arbeiten im Jetzt. Designing Your Life zoomt heraus: auf die große Linie, deine Laufbahn und dein Leben als Ganzes. Wer weiß, wohin er sich langfristig entwickeln will, trifft auch im Alltag bessere Entscheidungen.",
+      "files": [
+        "SKILL.md",
+        "templates/odyssey-plan.md"
+      ],
+      "access": "pending",
+      "available": false
+    }
+  ]
+}

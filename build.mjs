@@ -1,4 +1,10 @@
-import { cp, rm } from 'node:fs/promises';
+import { cp, rm, mkdir } from 'node:fs/promises';
+const local = process.argv.includes('--local');
+if (local && (process.env.VERCEL || process.env.CI)) throw new Error('Local skill contents must not be deployed.');
 await rm('public', { recursive: true, force: true });
 await cp('src', 'public', { recursive: true });
-console.log('Built public/');
+await mkdir('public/vendor', { recursive: true });
+await cp('node_modules/marked/lib/marked.umd.js', 'public/vendor/marked.js');
+await cp('node_modules/dompurify/dist/purify.min.js', 'public/vendor/purify.js');
+if (local) await cp('.local-skills', 'public', { recursive: true });
+console.log(`Built public/ (${local ? 'local skills preview; do not deploy' : 'catalogue only; no skill contents'})`);
