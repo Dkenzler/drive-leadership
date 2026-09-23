@@ -87,3 +87,6 @@
  .agent-strip{margin-top:36px;padding-top:24px}
 }
 @media(max-width:380px){.skills-page .library-hero{padding-bottom:310px}}
+
+.skill-row{grid-template-columns:42px minmax(0,1fr) 85px 18px}
+@media(max-width:760px){.skill-row{grid-template-columns:34px minmax(0,1fr)}}
