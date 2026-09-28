@@ -9,7 +9,8 @@
  try{
   await img.decode();
   canvas=document.createElement('canvas');canvas.className='cover-material';canvas.setAttribute('aria-hidden','true');
-  gl=canvas.getContext('webgl',{alpha:false,antialias:false,powerPreference:'low-power'});
+  // Keep the real image visible underneath, including when the GPU buffer is cleared.
+  gl=canvas.getContext('webgl',{alpha:true,preserveDrawingBuffer:true,antialias:false,powerPreference:'low-power'});
   if(!gl)return;
   const vertex=`attribute vec2 position; varying vec2 uv; void main(){uv=position*.5+.5;gl_Position=vec4(position,0.,1.);}`;
   const fragment=`precision highp float;
@@ -20,7 +21,8 @@
    return smoothstep(.70,.91,lo)*(1.-smoothstep(.07,.19,hi-lo));
   }
   void main(){
-   vec3 base=texture2D(cover,uv).rgb;
+   vec4 pixel=texture2D(cover,uv);
+   vec3 base=pixel.rgb;
    float foil=clamp(min(min((base.r-base.g-.137)/.216,(base.g-base.b-.047)/.137),(base.r-.431)/.255),0.,1.);
    float yellow=smoothstep(.6,.82,base.g)*smoothstep(.25,.48,base.r-base.b)*(1.-smoothstep(.18,.38,base.r-base.g));
    float white= lacquerMask(base);
@@ -57,7 +59,7 @@
    float inkSpec=pow(max(halfVector.z,0.),125.)*.13;
    vec3 varnish=base*(1.-.018*envelope)+vec3(1.,.94,.72)*inkSpec*envelope;
    result=mix(result,varnish,yellow);
-   gl_FragColor=vec4(clamp(result,0.,1.),1.);
+   gl_FragColor=vec4(clamp(result,0.,1.)*pixel.a,pixel.a);
   }`;
   function compile(type,source){const shader=gl.createShader(type);gl.shaderSource(shader,source);gl.compileShader(shader);if(!gl.getShaderParameter(shader,gl.COMPILE_STATUS))throw new Error(gl.getShaderInfoLog(shader));return shader;}
   const program=gl.createProgram();gl.attachShader(program,compile(gl.VERTEX_SHADER,vertex));gl.attachShader(program,compile(gl.FRAGMENT_SHADER,fragment));gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw new Error(gl.getProgramInfoLog(program));gl.useProgram(program);
@@ -65,6 +67,7 @@
   const pos=gl.getAttribLocation(program,'position');gl.enableVertexAttribArray(pos);gl.vertexAttribPointer(pos,2,gl.FLOAT,false,0,0);
   const source=document.createElement('canvas');source.width=1000;source.height=Math.round(1000*510/362);
   const ctx=source.getContext('2d'),style=getComputedStyle(img),scale=source.width/book.clientWidth;
+  if(!ctx||!book.clientWidth||!book.clientHeight||![style.left,style.top,style.width,style.height].every(value=>Number.isFinite(parseFloat(value))))return;
   ctx.drawImage(img,parseFloat(style.left)*scale,parseFloat(style.top)*scale,parseFloat(style.width)*scale,parseFloat(style.height)*scale);
   const texture=gl.createTexture();gl.bindTexture(gl.TEXTURE_2D,texture);gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL,true);gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,source);
   gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_S,gl.CLAMP_TO_EDGE);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_T,gl.CLAMP_TO_EDGE);
@@ -73,7 +76,9 @@
   function draw(){const dpr=Math.min(devicePixelRatio,2),w=Math.round(book.clientWidth*dpr),h=Math.round(book.clientHeight*dpr);if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;gl.viewport(0,0,w,h);}gl.uniform1f(phase,reduce.matches?5:(time%shimmerCycleSeconds)/shimmerCycleSeconds*7.25);gl.drawArrays(gl.TRIANGLES,0,6);}
   function frame(now){raf=null;if(!visible||document.hidden||reduce.matches){last=null;return;}if(last!==null)time+=(now-last)/1000;last=now;draw();raf=requestAnimationFrame(frame);}
   function resume(){if(raf!==null)cancelAnimationFrame(raf);raf=null;last=null;draw();if(visible&&!document.hidden&&!reduce.matches)raf=requestAnimationFrame(frame);}
-  book.append(canvas);draw();book.classList.add('has-material');
+  draw();
+  if(gl.isContextLost()||gl.getError()!==gl.NO_ERROR)throw new Error('Cover rendering unavailable');
+  book.append(canvas);book.classList.add('has-material');
   new IntersectionObserver(entries=>{visible=entries[0].isIntersecting;resume();}).observe(book);
   new ResizeObserver(()=>draw()).observe(book);
   document.addEventListener('visibilitychange',resume);reduce.addEventListener('change',resume);
