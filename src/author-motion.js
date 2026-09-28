@@ -10,13 +10,14 @@
   let ready = false, winkReady = false, visible = false, started = false;
   let target = center, current = center, last = 0, previous = '';
   let centering = false, winkStart = null, raf = 0;
+  let touch = null, suppressClick = false;
   function draw(index, wink = false) {
     index = Math.max(0, Math.min((wink ? winkFrames : frames) - 1, Math.round(index)));
     const key = `${wink ? 'wink' : 'turn'}:${index}`;
     if (key === previous) return;
     const cols = wink ? 5 : 10;
     ctx.clearRect(0, 0, size, size);
-    ctx.filter = 'grayscale(1)';
+    ctx.filter = 'none';
     ctx.drawImage(wink ? winkSheet : sheet, (index % cols) * size, Math.floor(index / cols) * size, size, size, 0, 0, size, size);
     previous = key;
     canvas.dataset.animation = wink ? 'wink' : 'turn';
@@ -73,7 +74,35 @@
     schedule();
   }, { passive: true });
   document.documentElement.addEventListener('pointerleave', () => { target = center; schedule(); });
-  button.addEventListener('click', () => {
+  button.addEventListener('pointerdown', event => {
+    if (event.pointerType !== 'touch' || !event.isPrimary) return;
+    suppressClick = false;
+    touch = { id: event.pointerId, x: event.clientX, y: event.clientY, start: current, dragging: false };
+  }, { passive: true });
+  button.addEventListener('pointermove', event => {
+    if (!touch || event.pointerId !== touch.id) return;
+    const dx = event.clientX - touch.x, dy = event.clientY - touch.y;
+    if (!touch.dragging) {
+      if (Math.abs(dy) > 8 && Math.abs(dy) > Math.abs(dx)) { suppressClick = true; touch = null; return; }
+      if (Math.abs(dx) < 8) return;
+      touch.dragging = true;
+      suppressClick = true;
+    }
+    if (!ready || !visible || reduced.matches) return;
+    target = Math.max(0, Math.min(frames - 1, touch.start + dx / button.clientWidth * (frames - 1)));
+    schedule();
+  }, { passive: true });
+  function endTouch(event) {
+    if (!touch || event.pointerId !== touch.id) return;
+    if (event.type === 'pointercancel') suppressClick = true;
+    touch = null;
+    target = center;
+    schedule();
+  }
+  button.addEventListener('pointerup', endTouch);
+  button.addEventListener('pointercancel', endTouch);
+  button.addEventListener('click', event => {
+    if (suppressClick && event.detail !== 0) { suppressClick = false; return; }
     if (ready && winkReady && !centering && winkStart === null) { centering = true; schedule(); }
   });
   reduced.addEventListener('change', reset);
