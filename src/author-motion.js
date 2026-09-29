@@ -11,6 +11,20 @@
   let target = center, current = center, last = 0, previous = '';
   let centering = false, winkStart = null, raf = 0;
   let touch = null, suppressClick = false;
+  let entering = !reduced.matches;
+  const side = 0;
+  function updateEntrance() {
+    if (!entering || reduced.matches) return;
+    const rect = button.getBoundingClientRect();
+    const viewport = window.innerHeight;
+    const start = viewport + rect.height / 2;
+    const end = viewport * .6;
+    const progress = Math.max(0, Math.min(1, (start - rect.top - rect.height / 2) / (start - end)));
+    const eased = progress * progress * (3 - 2 * progress);
+    target = side + (center - side) * eased;
+    if (progress >= 1) entering = false;
+    schedule();
+  }
   function draw(index, wink = false) {
     index = Math.max(0, Math.min((wink ? winkFrames : frames) - 1, Math.round(index)));
     const key = `${wink ? 'wink' : 'turn'}:${index}`;
@@ -45,16 +59,18 @@
     if (centering || winkStart !== null || Math.abs(current - target) > .05) schedule();
   }
   function reset() {
-    target = center; current = center; centering = false; winkStart = null; last = 0;
+    entering = !reduced.matches;
+    target = entering ? side : center; current = target; centering = false; winkStart = null; last = 0;
+    touch = null;
     if (raf) cancelAnimationFrame(raf);
     raf = 0;
-    if (ready) draw(center);
+    if (ready) draw(current);
   }
   function load() {
     if (started) return;
     started = true;
     sheet.onload = () => {
-      ready = true; draw(center);
+      ready = true; updateEntrance(); current = target; draw(current);
       button.querySelector('img').hidden = true; canvas.hidden = false;
       schedule();
     };
@@ -64,16 +80,22 @@
   }
   new IntersectionObserver(entries => {
     visible = entries[0].isIntersecting;
-    if (visible) { load(); schedule(); } else reset();
+    if (visible) { load(); updateEntrance(); schedule(); } else reset();
   }).observe(button);
+  const preload = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) { load(); preload.disconnect(); }
+  }, { rootMargin: '400px' });
+  preload.observe(button);
+  window.addEventListener('scroll', () => { if (visible) updateEntrance(); }, { passive: true });
+  window.addEventListener('resize', () => { if (visible) updateEntrance(); }, { passive: true });
   document.addEventListener('pointermove', event => {
-    if (!ready || !visible || reduced.matches || event.pointerType === 'touch' || document.hidden) return;
+    if (entering || !ready || !visible || reduced.matches || event.pointerType === 'touch' || document.hidden) return;
     const r = canvas.getBoundingClientRect();
     const x = Math.max(-1, Math.min(1, (event.clientX - r.left - r.width / 2) / (r.width * .7)));
     target = center + x * (x < 0 ? center : frames - 1 - center);
     schedule();
   }, { passive: true });
-  document.documentElement.addEventListener('pointerleave', () => { target = center; schedule(); });
+  document.documentElement.addEventListener('pointerleave', () => { if (!entering) { target = center; schedule(); } });
   button.addEventListener('pointerdown', event => {
     if (event.pointerType !== 'touch' || !event.isPrimary) return;
     suppressClick = false;
@@ -89,6 +111,7 @@
       suppressClick = true;
     }
     if (!ready || !visible || reduced.matches) return;
+    entering = false;
     target = Math.max(0, Math.min(frames - 1, touch.start + dx / button.clientWidth * (frames - 1)));
     schedule();
   }, { passive: true });
@@ -103,8 +126,8 @@
   button.addEventListener('pointercancel', endTouch);
   button.addEventListener('click', event => {
     if (suppressClick && event.detail !== 0) { suppressClick = false; return; }
-    if (ready && winkReady && !centering && winkStart === null) { centering = true; schedule(); }
+    if (ready && winkReady && !centering && winkStart === null) { entering = false; centering = true; schedule(); }
   });
   reduced.addEventListener('change', reset);
-  document.addEventListener('visibilitychange', () => { if (document.hidden) reset(); else schedule(); });
+  document.addEventListener('visibilitychange', () => { if (document.hidden) reset(); else { updateEntrance(); schedule(); } });
 })();
